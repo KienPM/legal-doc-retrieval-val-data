@@ -503,8 +503,8 @@
 78. 1888
 - Pháp luật quy định như thế nào về đối tượng được bồi thường thuộc trách nhiệm bồi thường của nhà nước?
 - Đối tượng được bồi thường thuộc trách nhiệm bồi thường của nhà nước?
-+ 35/2009/QH12 Luật trách nhiệm bồi thường thiệt hại 2009
-* Điều 4
++ 10/2017/QH14 Luật trách nhiệm bồi thường thiệt hại 2017
+* Điều 2
 79. 1890
 - Hồ sơ cấp Giấy chứng nhận đối với trường hợp người sử dụng đất đồng thời là chủ sở hữu nhà ở trên đất có giấy tờ chuyển nhượng?
 - Quy định của pháp luật về việc cấp giấy chứng nhận đối với trường hợp người sử dụng đất đồng thời là chủ sở hữu nhà ở trên đất có giấy tờ chuyển nhượng?
@@ -551,14 +551,19 @@
 86. 1899
 - Đi xe máy nhưng không có giấy tờ xe, chở 1 người và cả hai đều không đội mũ bảo hiểm bị xử phạt như thế nào?
 - Quy định về xử phạt hành chính đối với hành vi đi nhưng không có giấy tờ xe, chở 1 người và cả hai đều không đội mũ bảo hiểm?
-+ 46/2016/NĐ-CP
++ 100/2019/NĐ-CP
 * Điều 6
+@ khoản 2
+# điểm i
+* Điều 11
+@ khoản 3
+* Điều 21
 * Điều 17
 87. 1900
 - Quy định của pháp luật về việc tạm giữ phương tiện giao thông khi có hành vi vi phạm?
 - Phương tiện vi phạm pháp luật bị tạm giữ trong trường hợp nào?
-+ 46/2016/NĐ-CP
-* Điều 78
++ 100/2019/NĐ-CP
+* Điều 82
 88. 1901
 - Hành vi trộm cắp gà bị xử phạt hành chính như thế nào?
 - Quy định của pháp luật về việc xử phạt vi phạm hành chính đối với hành vi trộm cắp?
@@ -1694,10 +1699,11 @@
 * Điều 636
 273. 2113
 - Thay đổi giá trị bảo đảm trong hợp đồng thế chấp có phải đăng ký thay đổi nội dung thế chấp?
-- Có phải đăng ký thay đổi nội dung thế chấp trong hợp đồng thế chấp đã đăng ký trước đây không?
-+ 09/2016/TTLT-BTP-BTNMT
-* Điều 24
-@ Khoản 1
+- Có phải đăng ký thay đổi nội dung thế chấp trong hợp đồng thế chấp đã đăng ký trước đây khi thay đổi giá trị bảo đảm không?
++ 102/2017/NĐ-CP
+* Điều 18
+@ khoản 2
+@ khoản 3
 274. 2114
 - Con riêng của chồng có được hưởng thừa kế của vợ khi mất không di chúc không?
 - Hai vợ chồng khi mất không di chúc thì con riêng của người này có được hưởng thừa kế của người không?
@@ -2753,6 +2759,9 @@
 + 05/1999/NĐ-CP
 * Điều 5
 * Điều 6
++  106/2013/NĐ-CP
+* Điều 1
+@ khoản 2
 433. 3103
 - Mức phạt khi không khai báo tạm trú cho khách nước ngoài tại nhà nghỉ?
 - Quy định về khai báo tạm trú cho khách nước ngoài tại nhà nghỉ?

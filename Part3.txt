@@ -2205,9 +2205,10 @@
 364. 111
 - Hành vi sử dụng giấy tờ, tài liệu giả để được học, cấp mới giấy phép lái xe bị xử phạt như thế nào?
 - Hành vi sử dụng giấy tờ, tài liệu giả để được học, cấp mới giấy phép lái xe bị xử phạt bao nhiêu tiền?
-+ 46/2016/NĐ-CP
++ 100/2019/NĐ-CP
 * Điều 37
 @ Khoản 3
+# điểm g
 365. 112
 - Phạm vi điều chỉnh của Luật Trách nhiệm bồi thường của Nhà nước?
 - Luật Trách nhiệm bồi thường của Nhà nước có phạm vi điều chỉnh như thế nào?
@@ -2535,7 +2536,7 @@
 419. 178
 - Chiếm dụng lòng đường đô thị hoặc hè phố làm nơi trông, giữ xe bị xử phạt hành chính bao nhiêu tiền?
 - Chiếm dụng lòng đường đô thị hoặc hè phố làm nơi trông, giữ xe bị xử phạt hành chính như thế nào?
-+ 46/2016/NĐ-CP
++ 100/2019/NĐ-CP
 * Điều 12
 420. 179
 - Người sử dụng đất được Nhà nước công nhận quyền sử dụng đất, nhận chuyển quyền sử dụng đất bao gồm những đối tượng nào?
