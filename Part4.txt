@@ -107,9 +107,11 @@
 + 02/2015/TT-BTNMT
 * Điều 14
 @ Khoản 5
-+ 45/2013/QH13 Luật đất đai 2013
++ 43/2014/NĐ-CP
 * Điều 64
 @ Khoản 1
++ 45/2013/QH13 Luật đất đai 2013
+* Điều 167
 18. 291
 - Người gốc việt định cư ở nước ngoài được hiểu là người như thế nào?
 - Quy định của pháp luật về định nghĩa người gốc việt nam định cư ở nước ngoài?
@@ -1397,8 +1399,10 @@
 235. 539
 - Hồ sơ xóa đăng ký thế chấp?
 - Quy định của pháp luật về những giấy tờ cần có để đăng ký xóa thế chấp?
-+ 09/2016/TTLT-BTP-BTNMT
-* Điều 26
++ 102/2017/NĐ-CP
+* Điều 47
++ 07/2019/TT-BTP
+* Điều 19
 236. 540
 - Quy định của pháp luật về hiệu lực của giao dịch bảo đảm?
 - Hiệu lực của giao dịch bảo đảm?
@@ -2914,9 +2918,11 @@
 499. 2305
 - Mức xử phạt người lái xe máy không có giấy phép lái xe tham gia giao thông?
 - Quy định của pháp luật về xử phạt khi lái xe máy không có giấy phép lái xe?
-+ 46/2016/NĐ-CP
-* Điều 17
-@ Khoản 3
++ 100/2019/NĐ-CP
+* Điều 21
+@ khoản 5
+@ khoản 7 
+@ khoản 8
 500. 2306
 - Hành vi vi phạm quy định về tiếng ồn và phát tán mùi thối nơi công cộng bị xử phạt vi phạm hành chính như thế nào?
 - Quy định của pháp luật về hành vi gây tiếng ồn và phát tán mùi thối tại khu đô thị bị phạt bao nhiêu tiền?

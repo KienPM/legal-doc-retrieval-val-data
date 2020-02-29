@@ -326,8 +326,8 @@
 51. 692
 - Thủ tục đăng ký thế chấp tài sản gắn liền với đất đã hình thành nhưng chưa được chứng nhận quyền sở hữu trên Giấy chứng nhận? 
 - Thủ tục đăng ký thế chấp tài sản gắn liền với đất đã hình thành chưa được ghi nhận trên sổ đỏ?
-+ 09/2016/TTLT-BTP-BTNMT
-* Điều 21
++ 07/2019/TT-BTP
+* Điều 15
 52. 693
 - Tài sản gắn liền với đất thuê trả tiền hàng năm của cá nhân/hộ gia đình có được thực hiện thế chấp không?
 - Cá nhân có được thế chấp tài sản gắn liền với đất thuê trả tiền hàng năm không?
@@ -884,9 +884,9 @@
 139. 778
 - Thủ tục đăng ký thay đổi tên của bên thế chấp trong hợp đồng thế chấp?
 - Hồ sơ đăng ký thay đổi nội dung đã thế chấp do thay đổi tên của bên thế chấp?
-+ 09/2016/TTLT-BTP-BTNMT
-* Điều 24
-@ khoản 5
++ 07/2019/TT-BTP
+* Điều 16
+* Điều 13
 140. 779
 - Có được thế chấp quyền sử dụng đất không?
 - Điều kiện để thế chấp quyền sử dụng đất?
@@ -2148,11 +2148,9 @@
 313. 980
 - Hồ sơ đăng ký thay đổi tên của bên nhận thế chấp?
 - Ngân hàng nhận thế chấp đổi tên, hỏi cần chuẩn bị hồ sơ gì để đăng ký thay đổi nội dung thế chấp?
-+ 09/2016/TTLT-BTP-BTNMT
-* Điều 24
-@ Khoản 1
-# điểm b
-@ Khoản 2
++ 07/2019/TT-BTP
+* Điều 16
+@ khoản 5
 314. 983
 - Giấy chứng nhận quyền sử dụng đất do vợ hay chồng đứng tên khi tài sản đã thỏa thuận phân chia có công chứng là giao lại cho vợ?
 - Thỏa thuận phân chia tài sản vợ chồng có công chứng giao lại mảnh đất cho vợ thì vợ có quyền đứng tên trên sổ đỏ không?
@@ -3034,10 +3032,8 @@
 445. 1137
 - Bên nhận thế chấp thay đổi địa chỉ trụ sở có phải thực hiện việc đăng ký thay đổi nội dung thế chấp đã đăng ký không?
 - Ngân hàng nhận thế chấp và đã đăng ký nay thay đổi địa chỉ trụ sở có phải đăng ký thay đổi nội dung đăng ký thế chấp không?
-+ 09/2016/TTLT-BTP-BTNMT
-* Điều 24
-@ khoản 1
-# điểm b
++ 102/2017/NĐ-CP
+* Điều 18
 446. 1139
 - Ba chết không di chúc, bà nội không chung hộ khẩu có được hưởng thừa kế không?
 - Ba chết không di chúc, bà nội có được hưởng thừa kế không?
@@ -3170,11 +3166,12 @@
 + 52/2014/QH13
 * Điều 37
 466. 1168
-- Không chấp hành hiệu lệnh của người điều kiển giao thông bị xử phạt như thế nào?
-- Không chấp hành hiệu lệnh của cảnh sát giao thông bị phạt như thế nào
-+ 46/2016/NĐ-CP
+- Người điều khiển ô tô Không chấp hành hiệu lệnh của người điều kiển giao thông bị xử phạt như thế nào?
+- Người điều khiển ô tô Không chấp hành hiệu lệnh của cảnh sát giao thông bị phạt như thế nào
++ 100/2019/NĐ-CP
 * Điều 5
 @ khoản 5
+# điểm b
 467. 1169
 - Thủ tục kháng cáo bản án sơ thẩm của vụ án hình sự?
 - Thời hạn kháng cáo vụ án tòa án sơ thẩm trong hình sự là bao lâu?
@@ -3337,11 +3334,10 @@
 * điều II.1
 1. 1199
 - Ký thêm phụ lục hợp đồng thế chấp bổ sung phần tài sản trên đất, không làm thay đổi giá trị tài sản thế chấp có phải đăng ký thay đổi nội dung thế chấp không?
-- Bổ sung tài sản thế chấp là tài sản gắn liền với đất có phải thực hiện đăng ký thay đổi thế chấp không?
-+ 09/2016/TTLT-BTP-BTNMT
-* Điều 24 
-@ Khoản 1
-# Điểm d
+- Bổ sung tài sản thế chấpmà không ký hợp đồng mới có phải thực hiện đăng ký thay đổi thế chấp không?
++ 102/2017/NĐ-CP
+* Điều 18
+@ khoản 3
 2. 1200
 - Người giám hộ đương nhiên của người mất năng lực hành vi dân sự?
 - Cháu ngoại có thể làm người giám hộ đương nhiên cho bà ngoại bị mất năng lực hành vi dân sự không?
@@ -3706,10 +3702,9 @@
 50. 1255
 - Rút tài sản thế chấp là quyền sử dụng đất có cần đăng ký thay đổi nội dung thế chấp đã đăng ký không?
 - Rút bớt tài sản thế chấp là quyền sử dụng đất trong đơn đăng ký thế chấp thì có phải đăng ký thay đổi nội dung thế chấp không?
-+ 09/2016/TTLT-BTP-BTNMT
-* Điều 24
-@ Khoản 1
-# Điểm c
++ 102/2017/NĐ-CP
+* Điều 18
+@ khoản 2
 51. 1256
 - Nhà đất do bố mẹ để lại đã thực hiện sang tên thì khi bố mẹ mất có bị chia theo diện di sản thừa kế không?
 - Tài sản đã tặng cho và thực hiện việc sang tên thì khi người tặng cho mất tài sản đó có là di sản thừa kế không?
@@ -3721,7 +3716,10 @@
 52. 1257
 - Tổ chức thế chấp tài sản hình thành trong tương lai trên đất thuê trả tiền hằng năm ở đâu?
 - Thế chấp tài sản gắn liền với đất thuê trả tiền hằng năm của tổ chức đang được xây dựng ở đâu?
-+ 09/2016/TTLT-BTP-BTNMT
++ 102/2017/NĐ-CP
+* điều 9
+@ khoản 3
++ 07/2019/TT-BTP
 * Điều 5
 53. 1258
 - Công chứng hợp đồng ủy quyền khi bên ủy quyền đang ở nước ngoài?
@@ -4843,9 +4841,7 @@
 216. 1458
 - Điều kiện để được hưởng trợ cấp lần đầu đối với cán bộ, công chức, viên chức tại vùng kinh tế đặc biệt khó khăn?
 - Điều kiện để được hưởng trợ cấp lần đầu đối với cán bộ, công chức, viên chức khi chuyển đơn vị công tác?
-+ 116/2010/NĐ-CP (Hết hiệu lực 1/12/2019)
-* Điều 6
-+ 76/2019/NĐ-CP (Có hiệu lực 1/12/2019)
++ 76/2019/NĐ-CP 
 * Điều 6
 217. 1459
 - Tiếp nhận hồ sơ của văn phòng công chứng thực hiện chuyển nhượng cho người khác?
@@ -4860,11 +4856,10 @@
 @ Khoản 2
 # Điểm 7a
 219. 1462
-- Hồ sở đăng ký thế chấp tài sản trên đất trong trường hợp chủ sở hữu tài sản trên đất khác chủ sở hữu quyền sử dụng đất có được không?
-- Đăng ký thế chấp tài sản trên nhưng chủ sở hữu tài sản trên đất khác chủ sở hữu quyền sử dụng đất có được không và cần chuẩn bị những giấy tờ gì?
-+ 09/2016/TTLT-BTP-BTNMT
-* Điều 20
-@ Khoản 2
+- Hồ sơ đăng ký thế chấp tài sản gắn liền đất hình thành trong tương lai mà bên thế chấp không đồng thời là người sử dụng đất ?
+- Đăng ký thế chấp tài sản gắn liền đất hình thành trong tương lai mà bên thế chấp không đồng thời là người sử dụng đất cần chuẩn bị những giấy tờ gì?
++ 07/2019/TT-BTP
+* Điều 14
 220. 1463
 - Hủy hợp đồng ủy quyền công chứng tại hai nơi thực hiện như thế nào?
 - Quy định của pháp luật về việc hủy hợp đồng ủy quyền công chứng ở hai nơi?
@@ -5082,11 +5077,11 @@
 + 91/2015/QH13 Bộ luật dân sự 2015
 * Điều 611
 253. 1503
-- Thay đổi vị trí, loại bô xe máy có bị xử phạt không?
-- Thay đổi về vị trí và loại bô của xe có bị Cảnh sát giao thông phạt không?
-+ 46/2016/NĐ-CP
+- Thay đổi vị trí, loại bô, số khung số máy của xe có bị xử phạt không?
+- Tự ý thay đổi về vị trí, số khung số máy của xe có bị Cảnh sát giao thông phạt không?
++ 100/2019/NĐ-CP
 * Điều 30
-@ Khoản 4
+@ Khoản 5
 254. 1504
 - Ly hôn đơn phương chồng là người Hàn Quốc tại Việt Nam tại cơ quan nào?
 - Ly hôn chồng là người Hàn Quốc đơn phương tại Việt Nam thì nộp đơn ở đâu?
@@ -6046,8 +6041,12 @@
 395. 1670
 - Hành vi xe máy dừng đỗ không đúng nơi quy định bị xử phạt như thế nào?
 - Quy định của pháp luật về xử phạt vi phạm hành chính đối với hành vi xe máy dừng đỗ không đúng nơi quy định?
-+ 46/2016/NĐ-CP
++ 100/2019/NĐ-CP
 * Điều 6
+@ khoản 3
+@ khoản 4
+@ khoản 5
+@ khoản 10
 396. 1671
 - Hành vi khai thác cát trái phép bị xử phạt theo quy định của pháp luật như thế nào?
 - Xử phạt vi phạm hành chính đối với hành vi khai thác cát trái phép?
@@ -6067,12 +6066,20 @@
 399. 1676
 - Tạm giữ phương tiện vi phạm giao thông?
 - Quy định của pháp luật về trường hợp tạm giữ phương tiện giao thông?
-+ 46/2016/NĐ-CP
-* Điều 78
++ 100/2019/NĐ-CP
+* Điều 82
 400. 1677
 - Bị CSGT thổi phạt nhưng không dừng lại, cố ý bỏ chạy khi không có bằng lái đối với xe máy bị xử phạt như thế nào?
 - Xử phạt hành vi xe máy không chấp hành hiệu lệnh của cảnh sát giao thông và không mang bằng lái xe?
-+ 46/2016/NĐ-CP
++ 100/2019/NĐ-CP
+* Điều 6
+@ khoản 4
+# điểm g
+@ khoản 9
+* Điều 21
+@ khoản 5
+@ khoản 7 
+@ khoản 8
 * Điều 6
 401. 1678
 - Trả lại xe ô tô vi phạm giao thông gây chết người cho chủ sở hữu khi nào?
@@ -6086,9 +6093,11 @@
 402. 1679
 - Hành vi lưu thông trên đường không đội mũ bảo hiểm bị phạt bao nhiêu tiền?
 - Xử phạt vi phạm hành chính đối với hành vi tham gia giao thông nhưng không đội mũ bảo hiểm?
-+ 46/2016/NĐ-CP
++ 100/2019/NĐ-CP
 * Điều 6
-@ Khoản 3
+@ khoản 2
+* Điều 11
+@ khoản 3
 403. 1680
 - Xử phạt vi phạm hành chính đối với hành vi vi phạm quy định về hoạt động hành nghề luật sư?
 - Hành vi vi phạm quy định về hoạt động hành nghề luật sư bị xử phạt hành chính như thế nào?
