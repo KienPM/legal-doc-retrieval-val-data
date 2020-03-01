@@ -986,11 +986,6 @@
 - Trình tự, thủ tục thực hiện công chứng văn bản hủy bỏ hợp đồng mua bán nhà ở?
 + 53/2014/QH13 Luật công chứng 2014
 * Điều 51
-171. 2506
-- Chuyển hộ khẩu có phải thực hiện cấp đổi chứng minh nhân dân?
-- Chuyển hộ khẩu đi nơi khác có phải thực hiện cấp đổi chứng minh nhân dân không?
-+ 05/1999/NĐ-CP
-* Điều 5
 172. 2507
 - Đã có vợ là người nước ngoài nay về việt nam lấy vợ nữa được không?
 - Quy định của pháp luật có cho phép lấy hai vợ, một người là vợ việt nam, một người là quốc tịch nước ngoài có được không?
@@ -1894,13 +1889,6 @@
 - Người phạm tội chưa đạt có bị truy cứu trách nhiệm hình sự không?
 + 100/2015/QH13 Bộ luật hình sự 2015
 * Điều 15
-331. 2754
-- Người được hưởng án treo vi phạm nghĩa vụ trong thời gian thử thách thì xử lý như nào?
-- Có phải chấp hành hình phạt tù của bản án đã cho hưởng án treo do cố ý vi phạm nghĩa vụ không?
-+ 02/2018/NQ-HĐTP
-* Điều 10
-+ 100/2015/QH13 Bộ luật hình sự 2015
-* Điều 65
 332. 2755
 - Vừa thuộc đối tượng đưa vào cơ sở giáo dục bắt buộc vừa thuộc đối tượng đưa vào cơ sở cai nghiện bắt buộc thì xử lý như thế nào?
 - Quy định của pháp luật về việc xử lý khi đối tượng vừa thuộc cơ sơ giáo dục bắt buộc vừa thuộc cơ sở cai nghiện bắt buộc?
@@ -2809,11 +2797,6 @@
 - Quy định của pháp luật về thủ tục giải quyết tranh chấp đất đai thuộc thẩm quyền của ủy ban nhân dân cấp huyện?
 + 43/2014/NĐ-CP
 * Điều 89
-491. 3023
-- Những trường hợp phải đổi CMND?
-- Khi nào phải làm thủ tục cấp đổi CMND?
-+ 05/1999/NĐ-CP
-* Điều 5
 492. 3026
 - Có thể theo họ của bố là họ nước ngoài khi đăng ký khai sinh tại Việt Nam không?
 - Đăng ký khai sinh cho con có bố là người nước ngoài thì có thể đặt họ theo nước ngoài của bố không?

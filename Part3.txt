@@ -54,17 +54,6 @@
 + 01/2016/QH14 Luật đấu giá tài sản 2016
 * Điều 39
 @ Khoản 6
-8. 3327
-- Chính sách miễn giảm thuế đối với gia đình thương binh liệt sĩ?
-- Gia đình tôi là gia đình con liệt sỹ, có được miễn giảm tiền thuê đất, sử dụng đất của nhà nước không?
-+ 04/2012/UBTVQH13 Pháp lệnh ưu đãi người có công với cách mạng sửa đổi 2012
-* Điều 1
-@ Khoản 8
-+ 45/2014/NĐ-CP
-* Điều 11
-* Điều 12
-+ 45/2013/QH13 Luật đất đai 2013
-* Điều 110
 9. 3328
 - Các trường hợp bị thu hồi giấy chứng nhận quyền sử dụng đất?
 - Quyền sử dụng đất bị thu hồi trong những trường hợp nào?
@@ -123,11 +112,6 @@
 + 26/2008/QH12 Luật thi hành án dân sự 2008
 * Điều 3
 @ Khoản 2
-18. 3374
-- Điều kiện để sinh viên được vay vốn hỗ trợ?
-- Tôi là sinh viên đại học muốn vay vốn của ngân hàng thì cần đáp ứng điều kiện gì?
-+ 157/2007/QĐ-TTg
-* Điều 4
 19. 3382
 - Kê biên tài sản là nhà ở gắn liền với đất mà khác chủ sở hữu thì xử lý như thế nào?
 - Nhà ở và quyền sử dụng đất thuộc sở hữu của hai người khác nhau thì việc kê biên nhà ở xử lý như thế nào?
@@ -148,12 +132,6 @@
 - Thế nào là bán đấu giá không thành?
 + 01/2016/QH14 Luật đấu giá tài sản 2016
 * Điều 52
-23. 3395
-- Chế độ dành cho thân nhân thương binh khi chết?
-- Thương binh chết nhưng không may chết do vết thương cũ tái phát thì nhân thân có được hưởng chế độ gì không?
-+ 04/2012/UBTVQH13 Pháp lệnh ưu đãi người có công với cách mạng sửa đổi 2012
-* Điều 1
-@ Khoản 14
 24. 3397
 - Nghĩa vụ của người đến kiếu nại?
 - Giấy tờ cần xuất trình khi đến kiếu nại?
@@ -189,14 +167,6 @@
 @ Khoản 1
 * Điều 44
 * Điều 45
-30.   3426
-- Đối tượng được hưởng chính sách người có công với cách mạng?
-- Người đi thanh niên xung phong từ năm 1978 có được hưởng chính sách của người có công với cách mạng không?
-+ 26/2005/PL-UBTVQH11
-* Điều 2
-+ 04/2012/UBTVQH13 Pháp lệnh ưu đãi người có công với cách mạng sửa đổi 2012
-* Điều 1
-@ Khoản 1
 31. 3435
 - Chế độ nghỉ hưởng ốm đau đối với người lao động?
 - Người lao động nghỉ ốm thì được hưởng bảo hiểm như thế nào?
@@ -327,12 +297,6 @@
 - Lệ phí trước bạ đối khi cấp giấy chứng nhận về đất?
 - Quy định của pháp luật về lệ phí trước bạ khi cấp giấy chứng nhận quyền sử dụng đất?
 + 20/2019/NĐ-CP
-* Điều 1
-@ Khoản 1
-52. 3507
-- Như thế nào là người có công với cách mạng?
-- Được Thủ tướng Chính phủ truy tặng bằng khen về đã góp công, góp sức vào cuộc kháng chiến chống Mỹ, cứu nước có được công nhận là đối tượng có công cách mạng không? 
-+ 04/2012/UBTVQH13
 * Điều 1
 @ Khoản 1
 53. 3508
@@ -1244,11 +1208,6 @@
 + 21/2017/NĐ-CP
 * Điều 1
 @ Khoản 1
-210. 4200
-- Hợp tác xã có được hỗ trợ kinh phí cho việc đào tạo nghề cho lao động nông thôn không?
-- Hợp tác xã tổ chức các lớp dạy nghề để tạo việc làm cho những lao động nông thôn có được hỗ trợ kinh phí cho việc đào tạo nghề ngắn hạn cho lao động nông thôn không?
-+ 81/2005/QĐ-TTg
-* Điều 1
 211. 4201
 - Chủ đầu tư dự án phải thực hiện ký quỹ bao nhiêu % để đảm bảo thực hiện dự án đầu tư?
 - Quy định của pháp luật về mức ký quỹ để đảm bảo thực hiện dự án đầu tư của Chủ đầu tư?
@@ -1483,12 +1442,6 @@
 * Điều 32
 + 60/2014/QH13 Luật hộ tịch 2014
 * Điều 38 
-247. 4329
-- Thời hạn làm lại chứng minh nhân dân?
-- Được cấp lại chứng minh nhân dân sau bao nhiêu ngày?
-+ 106/2013/NĐ-CP
-* Điều 1
-@ Khoản 2
 248. 4338
 - Những trường hợp nào phải khai báo tạm vắng?
 - Đối tượng phải khai báo tạm vắng?
@@ -2011,11 +1964,6 @@
 * Điều 161
 @ Khoản 2
 # Điểm c
-333. 80
-- Công dân việt nam đang có nghĩa vụ chấp hành quyết định xử phạt hành chính có được xuất cảnh không?
-- Đang có nghĩa vụ chấp hành quyết định xử phạt hành chính có được xuất cảnh không?
-+ 07/VBHN-BCA
-* Điều 21
 334. 81
 - Xử phạt vi phạm hành chính đối với hành vi bạo hành trẻ em?
 - Đánh đập trẻ em bị truy cứu trách nhiệm hành chính như thế nào?
@@ -2379,20 +2327,6 @@
 + 24/2008/QH12 Luật quốc tịch việt nam 2008
 * Điều 19
 @ Khoản 3
-397. 149
-- Giao cấu với người chưa đủ 16 tuổi bị xử lý hình sự như thế nào?
-- Hành vi giao cấu với người chưa đủ 16 tuổi bị truy cứu trách nhiệm hình sự như thế nào?
-+ 100/2015/QH13 Bộ luật hình sự 2015
-* Điều 145
-+ 06/2019/NQ-HĐTP
-* Điều 3
-@ Khoản 1
-@ Khoản 2
-@ Khoản 3
-* Điều 4
-@ Khoản 2
-* Điều 6
-* Điều 7
 398. 150
 - Gây thương tích người khác trong trạng thái tinh thần bị kích động mạnh có bị truy cứu trách nhiệm hình sự không?
 - Cố ý gây thương tích cho người khác trong tin thần bị kích động mạnh có thể phạm tội gì không?
@@ -2474,11 +2408,6 @@
 * Điều 10
 @ Khoản 1
 * Điều 11
-409. 167
-- Điều kiện để được hưởng án treo theo quy định của pháp luật hiện hành?
-- Làm thế nào để được hưởng án treo?
-+ 02/2018/NQ-HĐTP
-* Điều 2
 410. 168
 - Thế nào là phòng vệ chính đáng?
 - Quy định của pháp luật về phòng vệ chính đáng?
@@ -2936,13 +2865,6 @@
 * Điều 65
 * Điều 64 
 @ Khoản 3
-488. 256
-- Về quyền thu giữ, xử lý tài sản bảo đảm của ngân hàng?
-- Quy định của pháp luật về quyền thu giữ, xử lý tài sản bảo đảm của tổ chức tín dụng?
-+ 42/2017/QH14
-* Điều 7
-* Điều 11
-* Điều 12
 489. 257
 - Xin nhập quốc tịch Việt Nam thực hiện tại cơ quan nào??
 - Muốn nhập quốc tịch Việt nam thì phải nộp hồ sơ tại đâu?

@@ -62,15 +62,6 @@
 - Quy định của pháp luật thủ tục giải quyết việc xin trở lại quốc tịch Việt Nam?
 + 24/2008/QH12 Luật Quốc tịch Việt Nam năm 2008
 * Điều 25
-11. 282
-- Sang tên quyền sử dụng đất của hộ gia đình ai là người ký trên hợp đồng chuyển nhượng?
-- Ai là người ký trên hợp đồng chuyển nhượng quyền sử dụng đất?
-+ 43/2014/NĐ-CP
-* Điều 64
-@ khoản 1
-+ 02/2015/TT-BTNMT 
-* Điều 14
-@ Khoản 5
 12. 283
 - Thủ tục cấp Phiếu lý lịch tư pháp khi chưa làm lại chứng minh thư nhân dân khi hộ khẩu đã thay đổi?
 - Có bắt buộc phải có chứng minh nhân dân khi làm thủ tục cấp phiếu lý lịch tư pháp không?
@@ -101,17 +92,6 @@
 - Quy định của pháp luật về việc cấp trích lục của bản án?
 + 92/2015/QH13 Bộ luật tố tụng dân sự năm 2015
 * Điều 269
-17. 290
-- Chuyển nhượng quyền sử dụng đất của hộ gia đình?
-- Quy định của pháp luật về chuyển nhượng quyền sử dụng đất của hộ gia đình?
-+ 02/2015/TT-BTNMT
-* Điều 14
-@ Khoản 5
-+ 43/2014/NĐ-CP
-* Điều 64
-@ Khoản 1
-+ 45/2013/QH13 Luật đất đai 2013
-* Điều 167
 18. 291
 - Người gốc việt định cư ở nước ngoài được hiểu là người như thế nào?
 - Quy định của pháp luật về định nghĩa người gốc việt nam định cư ở nước ngoài?
@@ -622,11 +602,6 @@
 * Điều 1
 @ Khoản 67
 @ Khoản 68 
-103. 391
-- Thủ tục xin cấp lại sổ bảo hiểm xã hội?
-- Quy định của pháp luật về việc cấp lại sổ bảo hiểm xã hội?
-+ 595/QĐ-BHXH
-* Điều 27
 104. 392
 - Lừa đảo đưa người lao động đi nước ngoài để chiếm đoạt tài sản phạm tội gì?
 - Truy cứu trách nhiệm hình sự hành vi lừa đảo chiếm đoạt tài sản của người khác theo điều nào?
@@ -708,18 +683,6 @@
 - Quy định của pháp luật về những trường hợp được xác định lại dân tộc đối với con nuôi?
 + 91/2015/QH13 Bộ luật dân sự năm 2015
 * Điều 29
-116. 406
-- Thế nào là người có công với cách mạng?
-- Người có công với cách mạng bao gồm những người nào?
-+ 04/2012/UBTVQH13 Pháp lệnh ưu đãi người có công với cách mạng sửa đổi 2012
-* Điều 1
-@ khoản 1
-117. 408
-- Thẩm quyền kiểm tra chứng minh nhân dân?
-- Quy định của pháp luật về việc kiểm tra chứng minh nhân dân?
-- Người có thẩm quyền kiểm tra chứng minh dân nhân?
-+ 05/1999/NĐ-CP
-* Điều 9
 118. 409
 - Đăng ký thường trú tại thành phố trực thuộc Trung ương cần có điều kiện gì?
 - Quy định của pháp luật về điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương?
@@ -831,16 +794,6 @@
 - Thủ trưởng cơ quan thi hành án phải ra quyết định thi hành án dân sự trong bao lâu?
 + 26/2008/QH12 Luật thi hành án dân sự 2008
 * Điều 36
-138. 432
-- Đối tượng được cấp chứng minh thư nhân dân?
-- Bao nhiêu tuổi trở nên thì được cấp chứng minh thi nhân dân?
-+ 05/1999/NĐ-CP
-* Điều 3
-139. 434
-- Địa chỉ thường trú trên CMND khác hộ khẩu thì có phải xin cấp lại chứng minh nhân dân không?
-- Có cần cấp lại CMND khi thay đổi hộ khẩu không?
-+ 05/1999/NĐ-CP
-* Điều 5
 140. 435
 - Điện tích thửa đất nhỏ hơn diện tích tối thiểu có được cấp sổ đỏ không?
 - Quy định của pháp luật về việc cấp giấy chứng nhận trong trường hợp diện tích nhỏ hơn diện tích tối thiểu?
@@ -2392,13 +2345,6 @@
 * Điều 567
 * Điều 568
 * Điều 569
-407. 2203
-- Diện tích tối thiểu khi tách thửa đất nông nghiệp tại thái nguyên?
-- Quy định của pháp luật về diện tích tối thiểu đất nông nghiệp được phép tách thửa tại Thái Nguyên?
-+ 38/2014/QĐ-UBND
-* Điều 7
-@ khoản 3
-* Điều 8
 408. 2204
 - Định đoạt quyền sử dụng đất của con tám tuổi?
 - Quy định của pháp luật về việc định đoạt tài sản của con tám tuổi về quyền sử dụng đất?

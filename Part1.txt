@@ -293,12 +293,6 @@
 + 52/2014/QH13
 * Điều 15
 * Điều 110
-47. 688
-- Thụ lý giải quyết vụ án trong trường hợp người bị kiện không có nơi cư trú ổn định?
-- Người bị kiện không có nơi cư trú ổn định thì tòa án có thụ lý đơn không?
-+ 05/2012/NQ-HĐTP
-* Điều 9
-@ khoản 6
 48. 689
 - Thủ tục giải quyết việc đăng ký khai sinh và nhận cha, mẹ, con?
 - Chưa đăng ký kết hôn, người mẹ đi làm giấy khia sinh cho con thì cần làm thủ tục gì để người cha được ghi tên trên giấy khai sinh của con?
@@ -1128,18 +1122,6 @@
 + 92/2015/QH13
 * Điều 39
 @ khoản 1
-168. 814
-- Quy định của pháp luật về việc trả lại đơn kiện đòi ly hôn?
-- Trường hợp nào đơn kiện đòi ly hôn bị tòa án trả lại?
-+ 92/2015/QH13
-* Điều 192
-@khoản 1
-+ 04/2017/NQ-HĐTP
-* Điều 2
-* Điều 3
-* Điều 4
-* Điều 5
-* Điều 6
 169. 815
 - Thời hạn tạm giam và gia hạn tạm giam theo quy định của pháp luật?
 - Có được gia hạn thời hạn tạm giam không?
@@ -3190,12 +3172,6 @@
 - Lừa đảo chiếm đoạt tài sản dưới 500.000 đồng có bị truy cứu trách nhiệm hình sự không?
 + 100/2015/QH13
 * Điều 174
-470. 1175
-- Ai phải chịu án phí hình sự sơ thẩm?
-- Khởi kiện hình sự ai phải chịu án phí hình sự sơ thẩm?
-+ 326/2016/UBTVQH14
-* Điều 23
-@ khoản 1
 471. 1176
 - Cung cấp dụng cụ và tham gia đánh bạc có bị coi là tổ chức đánh bạc không?
 - Một người không có hành vi rủ rê, lôi kéo người khác đánh bạc, nhưng lại lấy dụng cụ và tham gia đánh bạc cùng 10 người khác thì có phải chịu trách nhiệm về tội tổ chức đánh bạc không?
@@ -3320,18 +3296,6 @@
 @ khoản 2
 * Điều 68
 @ khoản 1
-2. 651
-- Gây thương tích cho người khác phải bồi thường những chi phí nào?
-- Quy định của pháp luật về bồi thường thiệt hại khi gây thương tích cho người khác?
-+ 03/2006/NQ-HĐTP
-* điều II.1
-3. 663
-- Xe khách lật do tài xế ngủ gật, hành khách trên xe bị thương được bổi thường thế nào?
-- Hành khách trên xe bị thương do lỗi của tài xế thì được bồi thường như thế nào?
-+ 91/2015/QH13
-* Điều 528
-+ 03/2006/NQ-HĐTP
-* điều II.1
 1. 1199
 - Ký thêm phụ lục hợp đồng thế chấp bổ sung phần tài sản trên đất, không làm thay đổi giá trị tài sản thế chấp có phải đăng ký thay đổi nội dung thế chấp không?
 - Bổ sung tài sản thế chấpmà không ký hợp đồng mới có phải thực hiện đăng ký thay đổi thế chấp không?
@@ -4051,14 +4015,6 @@
 - Tài sản bị hao mòn, hư hỏng do sử dụng không còn giá trị như tại thời điểm định giá thì ai chịu trách nhiệm bồi thường?
 + 26/2008/QH12 Luật Thi hành án dân sự năm 2008
 * Điều 58
-98. 1315
-- Chi cục Thi hành án dân sự có thể giữ lại số tiền án phí do Tòa án tuyên sung công hay không? 
-- Chi cục Thi hành án dân sự có thể giữ lại 10% trên tổng số tiền án phí do Tòa án tuyên sung công hay không? 
-+ 326/2016/UBTVQH14
-* Điều 19
-@ Khoản 1
-@ Khoản 3
-@ Khoản 4
 99. 1316
 - Có được ưu tiên thanh toán tiền bán tài sản do bản án được Tòa án áp dụng biện pháp khẩn cấp tạm thời không?
 - Bán tài sản để thi hành nhiều bản án, trong đó có một bản án được Tòa án áp dụng biện pháp khẩn cấp tạm thời thì khi bán tài sản có được ưu tiên thanh toán không?
@@ -4612,16 +4568,6 @@
 - Những người được hưởng thừa kế theo di chúc có thể thỏa thuận phân chia di sản rồi đi công chứng không?
 + 53/2014/QH13 Luật công chứng 2014
 * Điều 57
-186. 1419
-- Lừa đảo chiếm đoạt tài sản có được hưởng án treo không? 
-- Lừa đảo chiếm đoạt tài sản có được hưởng án treo trong trường hợp nào? 
-+ 100/2015/QH13 Bộ luật hình sự 2015
-* Điều 174
-* Điều 65
-+ 02/2018/NQ-HĐTP
-* Điều 2
-* Điều 3
-* Điều 4
 187. 1420
 - Lừa đảo chiếm đoạt 3 triệu khi mới ra tù hơn 2 năm bị xử lý như thế nào?
 - Lừa đảo chiếm đoạt 3 triệu khi mới ra tù hơn 2 năm bị xử bao nhiêu năm tù?
@@ -5600,15 +5546,6 @@
 - Chống trả như thế nào thì được coi là phòng vệ chính đáng?
 + 100/2015/QH13 Bộ luật hình sự 2015
 * Điều 22
-334. 1608
-- Trộm cắp tài sản có được hưởng án treo?
-- Trộm cắp tài sản như thế nào thì được hưởng án treo?
-+ 02/2018/NQ-HĐTP
-* Điều 2
-* Điều 3
-+ 100/2015/QH13 Bộ luật hình sự 2015
-* Điều 65
-* Điều 173
 335. 1609
 - Biết là tài sản do trộm cắp nhưng vẫn mua thì có phạm tội gì không?
 - Tài sản do trộm cắp nhưng vẫn mua thì có bị phạm tội không?
@@ -5989,12 +5926,6 @@
 + 148/2018/NĐ-CP
 * Điều 1
 @ Khoản 10
-387. 1662
-- Người lao động có phải đóng bảo hiểm y tế trong thời gian nghỉ hưởng thai sản không?
-- Khi nghỉ hưởng chế độ thai sản thì người lao động có phải đóng bảo hiểm y tế không?
-+ 595/QĐ-BHXH 
-* Điều 42
-@ Khoản 6
 388. 1663
 - Quy định về việc ký kết hợp đồng lao động không xác định thời hạn?
 - Quy định của pháp luật về việc ký kết hợp đồng lao động không xác định thời hạn với người lao động?
@@ -6485,16 +6416,6 @@
 - Quy định cuả pháp luật trong lĩnh vực giám định tư pháp về nhiệm vụ của Sở Tư pháp và cơ quan chuyên môn của Ủy ban nhân dân cấp tỉnh?
 + 85/2013/NĐ-CP
 * Điều 28
-464. 1754
-- Chế độ đối với người giám định tư pháp và người tham gia giám định tư pháp như thế nào?
-- Những chế độ đãi ngộ đối với người giám định tư pháp và người tham gia giám định tư pháp?
-+ 85/2013/NĐ-CP
-* Điều 25
-* Điều 26
-+ 01/2014/QĐ-TTg
-* Điều 2
-* Điều 3
-* Điều 4
 465. 1755
 - Quy định của pháp luật công bố danh sách người giám định tư pháp theo vụ việc, tổ chức giám định tư pháp theo vụ việc?
 - Thời gian và nội dung công bố danh sách người giám định tư pháp theo vụ việc, tổ chức giám định tư pháp theo vụ việc?
