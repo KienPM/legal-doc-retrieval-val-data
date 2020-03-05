@@ -1,7 +1,7 @@
 1. 272
 - Có được thay đổi người trực tiếp nuôi con không?
 - Bố muốn dành quyền nuôi con từ mẹ là người được tòa án chỉ định là người trực tiếp nuôi con có được không?
-+ 52/2014/QH13 Luật Hôn nhân và gia đình năm 2014
++ 52/2014/QH13
 * Điều 84
 2. 273
 - Thẩm quyền phạt tiền của chủ tịch UBND cấp xã trong lĩnh vực xây dựng?
@@ -14,14 +14,14 @@
 + 23/2015/NĐ-CP
 * Điều 5
 @ khoản 2  
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 2
 @ Khoản 1
 @ Khoản 5
 4. 275
 - Công chứng viên có được thay đổi nơi hành nghề công chứng không?
 - Công chứng viên thay đổi nơi hành nghề công chứng cần làm gì?
-+ 53/2014/QH13 Luật công chứng 2014 
++ 53/2014/QH13 
 * Điều 35
 + 06/2015/TT-BTP
 * Điều 4
@@ -30,7 +30,7 @@
 5. 276
 - Công chứng văn bản khai nhận di sản thừa kế về quyền sử dụng đất có cần xuất trình giấy chứng nhận quyền sử dụng đất bản gốc không?
 - Thủ tục công chứng văn bản khai nhận di sản thừa kế thực hiện có cần xuất trình giấy chứng nhận quyền sử dụng đất bản gốc không?
-+ 53/2014/QH13 Luật công chứng 2014 
++ 53/2014/QH13 
 * Điều 58
 * Điều 57
 6. 277
@@ -42,35 +42,35 @@
 7. 278
 - Có được trở lại quốc tịch Việt Nam sau khi xin thôi quốc tịch không và cần chuẩn bị những giấy tờ?
 - Chồng đã từng có quốc tịch Việt Nam nhưng đã thôi quốc tịch Việt Nam, nay có nguyện vọng trở lại quốc tịch Việt Nam có được không và hồ sơ gồm những giấy tờ gì?
-+ 24/2008/QH12 Luật Quốc tịch Việt Nam năm 2008
++ 24/2008/QH12
 * Điều 23
 * Điều 24 
 8. 279
 - Thời hiệu yêu cầu người thừa kế thực hiện nghĩa vụ về tài sản của người chết?
 - Thời hiệu yêu cầu người thừa kế thực hiện nghĩa vụ về tài sản của người chết là bao nhiêu năm?
-+ 91/2015/QH13 Bộ luật dân sự năm 2015
++ 91/2015/QH13
 * Điều 623
 @ Khoản 3
 9. 280
 - Làm sổ đỏ trong thời kỳ hôn nhân có ghi tên cả hai vợ chồng không?
 - Làm sổ đổ cho mảnh đất chung của vợ chồng có ghi tên cả hai vợ chồng không?
-+ 45/2013/QH13 Luật đất đai năm 2013
++ 45/2013/QH13
 * Điều 98
 @ Khoản 4
 10. 281
 - Thủ tục giải quyết hồ sơ xin trở lại quốc tịch Việt Nam?
 - Quy định của pháp luật thủ tục giải quyết việc xin trở lại quốc tịch Việt Nam?
-+ 24/2008/QH12 Luật Quốc tịch Việt Nam năm 2008
++ 24/2008/QH12
 * Điều 25
 12. 283
 - Thủ tục cấp Phiếu lý lịch tư pháp khi chưa làm lại chứng minh thư nhân dân khi hộ khẩu đã thay đổi?
 - Có bắt buộc phải có chứng minh nhân dân khi làm thủ tục cấp phiếu lý lịch tư pháp không?
-+ 28/2009/QH12 Luật Lý lịch tư pháp 2009
++ 28/2009/QH12
 * Điều 45 
 13. 284
 - Quy định về việc tạm dừng việc đăng ký, chuyển quyền sở hữu, của Chấp hành viên về áp dụng biện pháp bảo đảm trong thi hành án dân sự?
 - Chấp hành viên có quyền tạm dừng việc đăng ký, chuyển quyền sở hữu khi có hành vi trốn tránh việc thi hành án dân sự không?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 28
 14. 285
@@ -85,70 +85,70 @@
 15. 286
 - Con chưa thành niên gây thiệt hại thì ai là người phải bồi thường?
 - Con chưa thành niên gây thiệt hại thì cha mẹ có phải bồi thường thiệt hại?
-+ 91/2015/QH13 Bộ luật dân sự năm 2015
++ 91/2015/QH13
 * Điều 586
 16. 287
 - Cấp trích lục bản án, giao bản án theo quy định?
 - Quy định của pháp luật về việc cấp trích lục của bản án?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự năm 2015
++ 92/2015/QH13
 * Điều 269
 18. 291
 - Người gốc việt định cư ở nước ngoài được hiểu là người như thế nào?
 - Quy định của pháp luật về định nghĩa người gốc việt nam định cư ở nước ngoài?
-+ 24/2008/QH12 Luật quốc tịch 2008
++ 24/2008/QH12
 * Điều 3
 @ khoản 3
 19. 292
 - Người bảo vệ quyền và lợi ích vắng mặt tại Phiên tòa thì có tiến hành xét xử không?
 - Đương sự vắng mặt tại Phiên tòa thì có tiến hành xét xử không?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 228
 20. 293
 - Xác nhận tài sản riêng vợ/chồng trước khi kết hôn?
 - Quy định của pháp luật về xác định tài sản riêng của vợ/chồng trước khi kết hôn?
-+ 52/2014/QH13 Luật hôn nhân và gia đình năm 2014
++ 52/2014/QH13
 * Điều 43 
 21. 294
 - Trách nhiệm của ủy ban nhân dân xã trong vấn đề bảo vệ môi trường?
 - Nhiệm vụ quản lý nhà nước của ủy ban nhân dân xã trong bảo vệ môi trường?
-+ 55/2014/QH13 Luật bảo vệ môi trường 2014
++ 55/2014/QH13
 * Điều 143
 @ Khoản 3
 22. 295
 - Đổi họ cho con có ảnh hưởng tới quyền nuôi dưỡng không?
 - Thay đổi họ cho con có ảnh hưởng tới quyền nuôi dưỡng của cha/mẹ không?
-+ 91/2015/QH13 Bộ luật dân sự năm 2015
++ 91/2015/QH13
 * Điều 27
 23. 296
 - Cơ quan nhà nước có quyền yêu cầu tòa án buộc người không tự nguyện thực hiện nghĩa vụ cấp dưỡng không?
 - Những cơ quan nào có quyền yêu cầu tòa án buộc người không tự nguyện thực hiện nghĩa vụ cấp dưỡng?
-+ 52/2014/QH13 Luật hôn nhân và gia đình năm 2014
++ 52/2014/QH13
 * Điều 119
 24. 297
 - Vay nặng lãi có phạm tội không?
 - Những người cho vay nặng lãi có phạm tội không?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 201
 25. 298
 - Điều kiện để tố giác tội phạm?
 - Quy định của pháp luật về tố giác tội phạm?
-+ 101/2015/QH13 Bộ luật tố tụng hình sự năm 2015
++ 101/2015/QH13
 * Điều 144
 @ Khoản 1
 27. 301
 - Quy định của pháp luật về công chứng bản dịch?
 - Công chứng viên thực hiện công chứng bản dịch như thế nào?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 61
 28. 302
 - Thủ tục hủy văn bản đã được công chứng?
 - Văn bản đã được công chứng thực hiện hủy như thế nào?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 51
 29. 303
 - Thủ tục đăng ký kết hôn giữa công dân Việt Nam với công dân Lào?
 - Quy định của pháp luật về thủ tục đăng ký kết hôn với công dân Lào?
-+ 60/2014/QH13 Luật hộ tịch 2014
++ 60/2014/QH13
 * Điều 37
 * Điều 38
 + 123/2015/NĐ-CP
@@ -158,22 +158,22 @@
 30. 304
 - Cách xác định quê quán trên khai sinh cho trẻ?
 - Khai quê quán khai sinh cho con khác nơi của bố và mẹ được không?
-+ 60/2014/QH13 Luật hộ tịch 2014
++ 60/2014/QH13
 * Điều 4
 @ Khoản 8
 31. 306
 - Thay đổi họ của cháu theo họ ông nội có được không?
 - Pháp luật có cho phép thay đổi họ cho con theo họ của ông nội không?
-+ 60/2014/QH13 Luật hộ tịch 2014
++ 60/2014/QH13
 * Điều 26
 @ Khoản 1
-+ 91/2015/QH13 Bộ luật dân sự năm 2015
++ 91/2015/QH13
 * Điều 27
 @ Khoản 1
 32. 308
 - Cho thuê, cho mượn tài sản thế chấp có được không?
 - Quy định của pháp luật về việc cho thuê mượn tài sản đã thế chấp?
-+ 91/2015/QH13 Bộ luật dân sự năm 2015
++ 91/2015/QH13
 * Điều 321
 @ Khoản 1
 33. 309
@@ -204,97 +204,97 @@
 38. 316
 - Điều kiện tham gia thành lập Văn phòng công chứng?
 - Quy định của pháp luật về điều kiện thành lập Văn phòng công chứng?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 23
 39. 317
 - Tiêu chuẩn công chứng viên?
 - Quy định của pháp luật về tiêu chuẩn để làm công chứng viên?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 8
 40. 318
 - Điều kiện đối với người nhận con nuôi có yếu tố nước ngoài?
 - Quy định của pháp luật về điều kiện của người nhận con nuôi có yếu tố nước ngoài?
-+ 52/2010/QH12 Luật nuôi con nuôi 2010
++ 52/2010/QH12
 * Điều 28
 @ Khoản 2
 41. 320
 - Một người có được nhận làm con nuôi của hai người không?
 - Quy định của pháp luật về việc nhận con nuôi của hai người?
-+ 52/2010/QH12 Luật nuôi con nuôi 2010
++ 52/2010/QH12
 * Điều 28
 @ Khoản 3
 42. 321
 - Khiếu nại trong tố tụng dân sự?
 - Quy định của pháp luật về đảm bảo quyền khiếu nại trong tố tụng dân sự?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 25
 * Điều 499
 43. 322
 - Thủ tục kết hôn với người quốc tịch Đức?
 - Quy định của pháp luật về việc kết hôn với người quốc tịch Đức?
-+ 52/2014/QH13 Luật Hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 126
 + 123/2015/NĐ-CP
 * Điều 30
 44. 323
 - Những ai không được bổ nhiệm làm công chứng viên?
 - Quy định của pháp luật về những trường hợp không được bổ nhiệm làm công chứng viên?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 13
 45. 325
 - Thủ tục công chứng di chúc?
 - Quy định của pháp luật về hồ sơ giấy tờ cho việc công chứng di chúc?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 56
 46. 326
 - Có sự thay đổi về chủ sở hữu thửa đất có phải thực hiện đăng ký biến động tại cơ quan đăng ký đất đai không?
 - Có phải thực hiện đăng ký biến động khi bán nhà đất không?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 95
 47. 327
 - Được nhận cháu họ làm con nuôi trong trường hợp nào?
 - Nhận cháu họ làm con nuôi có được không?
-+ 52/2010/QH12 Luật nuôi con nuôi 2010
++ 52/2010/QH12
 * Điều 8 
 * Điều 13
 @ Khoản 6
 48. 329
 - Bà ngoại nhận cháu làm con nuôi được không?
 - Pháp luật hiện hành có cho phép bà ngoại nhận cháu làm con nuôi không?
-+ 52/2010/QH12 Luật nuôi con nuôi 2010
++ 52/2010/QH12
 * Điều 13
 @ Khoản 6
 49. 331
 - Định đoạt tài sản thuộc sở hữu chung theo phần?
 - Quy định của pháp luật về việc định đoạt tài sản chung?
-+ 91/2015/QH13 Bộ luật dấn sự 2015
++ 91/2015/QH13
 * Điều 218
 50. 332
 - Có thể sử dụng hộ chiếu để xin cấp Phiếu lý lịch tư pháp không?
 - Quy định của pháp luật về hồ sơ để xin cấp Phiếu lý lịch tư pháp?
-+ 28/2009/QH12 Luật Lý lịch tư pháp 2009
++ 28/2009/QH12
 * Điều 45
 * Điều 46
 51. 333
 - Cấp Phiếu lý lịch tư pháp số 2 cho người Việt Nam ở nước ngoài như thế nào?
 - Thủ tục cấp Phiếu lý lịch tư pháp số 2 cho người Việt Nam ở nước ngoài?
-+ 28/2009/QH12 Luật Lý lịch tư pháp 2009
++ 28/2009/QH12
 * Điều 44
 @ Khoản 2
 * Điều 46
 52. 334
 - Có phiếu lý lịch tư pháp cho công ty không?
 - Phiếu lý lịch tư pháp có cấp cho tổ chức không?
-+ 28/2009/QH12 Luật Lý lịch tư pháp 2009
++ 28/2009/QH12
 * Điều 2
 @ Khoản 4
 53. 335
 - Thời hạn thi hành quyết định cưỡng chế thi hành quyết định xử phạt vi phạm hành chính?
 - Quy định của pháp luật về cách tính thời hạn thi hành quyết định cưỡng chế thi hành quyết định xử phạt vi phạm hành chính?
-+ 15/2012/QH13 Luật Xử lý vi phạm hành chính năm 2012
++ 15/2012/QH13
 * Điều 8
 @ Khoản 1
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 145
 * Điều 144
 * Điều 147
@@ -307,7 +307,7 @@
 55. 337
 - Cải chính quê quán trong giấy khai sinh?
 - Thủ tục cải chính quê quán trong giấy khai sinh?
-+ 60/2014/QH13 Luật hộ tịch 2014
++ 60/2014/QH13
 * Điều 4
 @ Khoản 12
 * Điều 27
@@ -315,7 +315,7 @@
 56. 338
 - Quy định về trình tự thủ tục cưỡng chế thi hành án, người có nhiệm vụ, quyền hạn tổ chức thi hành án dân sự?
 - Quy định của pháp luật về thủ tục cưỡng chế thi hành án, người có nhiệm vụ, quyền hạn tổ chức thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 46
 * Điều 20
 @ Khoản 5
@@ -329,35 +329,35 @@
 * Điều 69 
 * Điều 70
 * Điều 72
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 1
 @ Khoản 10
 58. 341
 - Khiếu nại về việc cấp Phiếu lý lịch tư pháp?
 - Quy định của pháp luật về việc khiếu nại việc cấp Phiếu lý lịch tư pháp?
-+ 28/2009/QH12 Luật Lý lịch tư pháp 2009
++ 28/2009/QH12
 * Điều 52
 * Điều 53
 59. 342
 - Phiếu lý lịch tư pháp số 1 được cấp ở nơi thường trú hay tạm trú?
 - Quy định của pháp luật về cơ quan giải quyết việc cấp phiếu lý lịch tư pháp số 1
-+ 28/2009/QH12 Luật Lý lịch tư pháp 2009
++ 28/2009/QH12
 * Điều 44
 60. 344
 - Quy định cưỡng chế giao, trả giấy tờ trong thi hành án dân sự?
 - Quy định của pháp luật thi hành án dân sự về việc cưỡng chế trả giấy tờ?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ khoản 39
 61. 345
 - Có thể khiếu nại bản án của tòa án không?
 - Quy định của pháp luật về việc khiếu nại quyết định trong tố tụng dân sự?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 499
 62. 346
 - Hợp đồng công chứng có phải đóng dấu giáp lai của tổ chức cần công chứng không?
 - Quy định của pháp luật về việc ký tên, đóng giáp lai trong công chứng hợp đồng?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 40
 @ khoản 8
 * Điều 41
@@ -365,7 +365,7 @@
 63. 347
 - Không tuân thủ hình thức của hợp đồng có bị vô hiệu không?
 - Hợp đồng không tuân thủ hình thức thì có hiệu lực không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 119
 * Điều 129
 64. 348
@@ -376,22 +376,22 @@
 65. 349
 - Quy định về nhiệm vụ, quyền hạn của Chấp hành viên khi giải quyết khiếu nại trong thi hành án dân sự?
 - Quy định của pháp luật về nghĩa vụ của chấp hành viên khi giải quyết khiếu nại trong thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án 2008
++ 26/2008/QH12
 * Điều 145
 66. 350
 - Người lao động bị áp dụng biện pháp kỷ luật sa thải khi nào?
 - Quy định của pháp luật về việc kỷ luật sa thải người lao động?
-+ 10/2012/QH13 Bộ luật lao động năm 2012
++ 10/2012/QH13
 * Điều 126
 67. 351
 - Thời hạn tòa án ra quyết định công nhận sự thỏa thuận của các bên?
 - Quy định của pháp luật về việc ra quyết định công nhận sự thỏa thuận của các bên?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 212
 68. 352
 - Công chứng văn bản thỏa thuận phân chia tài sản chung sau khi ly hôn mà người yêu cầu công chứng không nghe được, không ký được?
 - Quy định của pháp luật về công chứng văn bản thỏa thuận phân chia tài sản sau khi ly hôn, người yêu cầu công chứng không nghe được, không ký được?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 47
 @ Khoản 2
 69. 353
@@ -402,28 +402,28 @@
 70. 354
 - Chuyển nhượng quyền sử dụng đất thông qua hợp đồng miệng được không?
 - Chuyển nhượng quyền sử dụng đất bằng miệng có được không?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 502
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 167
 @ Khoản 3
 # Điểm a
 71. 355
 - Tài sản đang được thế chấp có thể bán đi không?
 - Quyền sử đất đang thế chấp tại ngân hàng thì có được chuyển nhượng cho người khác không?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 320
 @ Khoản 8
 72. 356
 - Nhập quốc tịch Việt Nam cho trẻ em Hàn Quốc có mẹ là người Việt Nam?
 - Quy định của pháp luật về việc nhập quốc tịch cho trẻ em Hàn Quốc có mẹ mang quốc tịch việt nam?
-+ 24/2008/QH12 Luật Quốc tịch Việt Nam 2008
++ 24/2008/QH12
 * Điều 19
 * Điều 20
 73. 358
 - Quy định của pháp luật về nguyên tắc cấp giấy chứng nhận quyền sử dụng đất?
 - Nguyên tắc cấp giấy chứng nhận quyền sử dụng đất?
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 98
 74. 360
 - Thủ tục đăng ký lại khai sinh?
@@ -447,7 +447,7 @@
 - Muốn sửa lại khai sinh cho con do sai tên mẹ làm thế nào?
 + 123/2015/NĐ-CP
 * Điều 7
-+ 60/2014/QH13 Luật hộ tịch 2014
++ 60/2014/QH13
 * Điều 27
 * Điều 28
 78. 364
@@ -460,32 +460,32 @@
 79. 365
 - Việc nhận nuôi con nuôi có phát sinh quyền và nghĩa vụ của cha mẹ với con không?
 - Quy định của pháp luật về những hệ quả phát sinh sau khi nhận nuôi con nuôi?
-+ 52/2010/QH12 Luật nuôi con 2010
++ 52/2010/QH12
 * Điều 24
 80. 366
 - Người nước ngoài thường trú ở việt nam được nhận nuôi con nuôi mang quốc tịch việt nam không?
 - Quy định của pháp luật về việc nhận nuôi con nuôi của người nước ngoài thường trú ở việt nam?
-+ 52/2010/QH12 Luật nuôi con 2010
++ 52/2010/QH12
 * Điều 41
 81. 367
 - Điều kiện có hiệu lực của giấy ủy quyền?
 - Quy định của pháp luật về điều kiện có hiệu lực của văn bản ủy quyền?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 117
 82. 368
 - Dì ruột mang quốc tịch nước ngoài nhận cháu làm con nuôi có được không?
 - Quy định có cho phép di ruột là người nước ngoài nhận cháu làm con nuôi không?
-+ 52/2010/QH12 Luật nuôi con 2010
++ 52/2010/QH12
 * Điều 28
 83. 369
 - Những người nào cần được giám hộ?
 - Quy định của pháp luật về những người được giám hộ?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 47
 84. 370
 - Diện tích thửa đất ghi trên sổ đỏ và trên bản đồ địa chính không giống nhau thì phải làm thế nào?
 - Thủ tục đính chính diện tích đất trên giấy chứng nhận quyền sử dụng đất?
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 86
 + 24/2014/TT-BTNMT
 * Điều 10
@@ -494,17 +494,17 @@
 85. 371
 - Thời điểm có hiệu lực của hợp đồng tặng cho tiền?
 - Hợp đồng tặng cho tiền có hiệu lực khi nào?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 458
 86. 372
 - Công chứng viên có được chứng thực bản sao từ bản chính không?
 - Chứng thực bản sao từ bản chính ở văn phòng công chứng có được không?
-+ 53/2014/QH13 Luật Công chứng năm 2014
++ 53/2014/QH13
 * Điều 77 
 87. 373
 - Di chúc bằng văn bản không có người làm chứng, chứng thực hoặc công chứng có được không?
 - Di chúc bằng văn bản nhưng không có chữ ký của người làm chứng, không thực hiện chứng thực có hiệu lực không?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 628
 * Điều 630
 * Điều 633
@@ -512,102 +512,102 @@
 88. 374
 - Hợp đồng ủy quyền có hiệu lực khi đáp ứng những tiêu chí nào?
 - Quy định của pháp luật về điều kiện có hiệu lực của hợp đồng ủy quyền?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 117
 89. 375
 - Định đoạt tài sản của chủ sở hữu?
 - Chủ sở hữu có những quyền gì trong việc định đoạt tài sản của mình?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 194
 90. 376
 - Quyền định đoạt đối với tài sản của chủ sở hữu có bị hạn chế không?
 - Chủ sở hữu có bị hạn chế quyền định đoạt tài sản không?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 196
 91. 377
 - Văn bản cam kết tài sản riêng của vợ hoặc chồng được công chứng theo thủ tục nào?
 - Thủ tục công chứng văn bản cam kết tài sản riêng của vợ hoặc chồng?
-+ 53/2014/QH13 Luật Công chứng năm 2014
++ 53/2014/QH13
 * Điều 40
 * Điều 41
 92. 378
 - Nhà ở riêng lẻ thuộc khu vực nông thôn có được miễn giấy phép xây dựng không?
 - Xây dựng nhà ở riêng lẻ thuộc khu vực nông thôn có phải xin giấy phép xây dựng không?
-+ 50/2014/QH13 Luật xây dựng năm 2014
++ 50/2014/QH13
 * Điều 89
 @ Khoản 2
 # điểm k
 93. 379
 - Ai là chủ sở hữu của đất đai?
 - Chủ sở hữu của đất đai là ai?
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 4
 94. 380
 - Người chưa thành niên và giao dịch liên quan đến quyền sử dụng đất của hộ gia đình?
 - Người chưa thành niên thực hiện giao dịch liên quan đến quyền sử dụng đất có cần sự đồng ý của bố mẹ không?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 21
 * Điều 212
 * Điều 134
 95. 381
 - Chuyển nhượng quyền sử dụng đất của hộ gia đình cần sự đồng ý của những ai?
 - Chuyển nhượng quyền sử dụng đất của hộ gia đình có cần sự đồng ý của các con chưa thành niên không?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 212
 96. 383
 - Con có quyền từ chối nhận di sản do bố để lại không?
 - Quy định của pháp luật về quyền từ chối nhận di sản do bố mất không di chúc?
-+ 91/2015/QH13 Bộ luật Dân sự 2015
++ 91/2015/QH13
 * Điều 620
 97. 384
 - Hợp đồng tặng cho quyền sử dụng đất có hiệu lực khi nào?
 - Quy định của pháp luật về thời điểm có hiệu lực của hợp đồng tặng cho tài sản là quyền sử dụng đất?
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 167
 @ Khoản 3
 # điểm a
-+ 53/2014/QH13 Luật Công chứng năm 2014
++ 53/2014/QH13
 * Điều 5
 + 91/2015/QH13
 * Điều 459
 98. 385
 - Quy định của pháp luật về quyền cưỡng chế thi hành án dân sự trả giấy tờ?
 - Người có nghĩa vụ phải thi hành án trả giấy tờ không thực hiện thì cơ quan thi hành án dân sự cưỡng chế như thế nào?
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 117
 99. 386
 - Thuộc trường hợp đương nhiên xóa án tích có phải làm thủ tục không?
 - Quy định của pháp luật về việc đương nhiên xóa án tích và thủ tục xóa án tích trong trường hợp này?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 70
 100. 387
 - Người 17 bị kết án về tội phạm rất nghiêm trọng chấp hành xong bản án sau bao lâu thì được xác nhận là không có tiền án?
 - Sau bao lâu thì người 17 tuổi bị kết án về tội rất nghiêm trọng được đương nhiên xóa án tích?
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 1
 @ Khoản 19 
 101. 388
 - Điều kiện xin cấp phiếu lý lịch tư pháp?
 - Quy định của pháp luật về điều kiện xin cấp phiếu lý lịch tư pháp?
-+ 28/2009/QH12 Luật lý lịch tư pháp năm 2009
++ 28/2009/QH12
 * Điều 49
 102. 390
 - Chở bạn đi mua ma túy thì có bị truy cứu trách nhiệm hình sự không, có thể bị ở tội nào?
 - Chở bạn đi mua ma túy nhưng không trực tiếp mua bán có bị truy cứu trách nhiệm hình sự không, phạm tội nào?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 250
 * Điều 251
 * Điều 17
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 1
 @ Khoản 67
 @ Khoản 68 
 104. 392
 - Lừa đảo đưa người lao động đi nước ngoài để chiếm đoạt tài sản phạm tội gì?
 - Truy cứu trách nhiệm hình sự hành vi lừa đảo chiếm đoạt tài sản của người khác theo điều nào?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 174
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 2
 @ Khoản 3
 # Điểm a
@@ -616,7 +616,7 @@
 105. 393
 - Thông báo Quyết định về thi hành án dân sự, giấy báo, giấy triệu tập?
 - Quy định của pháp luật về vấn đề thông báo thi hành án dân sự, gửi giấy triệu tập và các văn bản khác cho đương sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 39
 + 62/2015/NĐ-CP
 * Điều 12
@@ -638,29 +638,29 @@
 107. 396
 - Người bị thi hành án dân sự bị trừ tối đa bao nhiêu % vào tiền lương, tiền công để thi hành án?
 - Chấp hành viên của cơ quan thi hành án dân sự có thể trừ tối đa bao nhiêu % vào tiền lương, tiền công của người thi hành án?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 78
 108. 397
 - Thẩm quyền đăng ký việc nuôi con nuôi trong nước?
 - Quy định của pháp luật về cơ quan có thẩm quyền giải quyết việc nuôi con nuôi trong nước?
-+ 52/2010/QH12 Luật nuôi con nuôi 2010
++ 52/2010/QH12
 * Điều 9
 109. 398
 - Giải quyết như thế nào thì vợ/chồng bị tòa án tuyên bố là chết nay trở về?
 - Quan hệ nhân thân của người bị tòa án tuyên bố là đã chết trở về giải quyết như thế nào?
 - Quan hệ tài sản của người bị tòa án tuyên bố là đã chết trở về giải quyết như thế nào?
-+ 52/2014/QH13 Luật hôn nhân và gia đình năm 2014
++ 52/2014/QH13
 * Điều 67
 110. 399
 - Con mang quốc tịch trung quốc có mẹ mang quốc tịch việt nam có được xin nhập quốc tịch Việt Nam được không?
 - Mẹ mang quốc tịch việt nam con mang quốc tịch trung quốc thì có được xin nhập quốc tịch việt nam nữa không?
-+ 24/2008/QH12 Luật Quốc tịch Việt Nam năm 2008
++ 24/2008/QH12
 * Điều 19
 * Điều 20
 111. 400
 - Có thể công chứng ngoài trụ sở khi nào?
 - Quy định của pháp luật về việc công chứng ngoài trụ sở?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 44
 112. 407
 - Hồ sơ hưởng chế độ ưu đãi đối với người hoạt động kháng chiến bị nhiễm chất độc hóa học bao gồm những giấy tờ gì?
@@ -675,18 +675,18 @@
 114. 403
 - Điều khoản thỏa thuận vi phạm điều cấm của pháp luật có bị vô hiệu không?
 - Trong hợp đồng có điều khoản thỏa thuận vi phạm điều cấm của pháp luật thì có hiệu lực không?
-+ 91/2015/QH13 Bộ luật Dân sự 2015 
++ 91/2015/QH13 
 * Điều 123
 * Điều 122
 115. 405
 - Xác định lại dân tộc cho con nuôi trong trường hợp nào?
 - Quy định của pháp luật về những trường hợp được xác định lại dân tộc đối với con nuôi?
-+ 91/2015/QH13 Bộ luật dân sự năm 2015
++ 91/2015/QH13
 * Điều 29
 118. 409
 - Đăng ký thường trú tại thành phố trực thuộc Trung ương cần có điều kiện gì?
 - Quy định của pháp luật về điều kiện đăng ký thường trú tại thành phố trực thuộc trung ương?
-+ 36/2013/QH13 Luật cư trú sửa đổi năm 2013
++ 36/2013/QH13
 * Điều 1
 @ khoản 2
 + 31/2014/NĐ-CP
@@ -694,46 +694,46 @@
 119. 410
 - Thời gian giải quyết thủ tục đăng ký nhận cha, me, con?
 - Quy định của pháp luật về thời gian giải quyết thủ tục đăng ký cha, mẹ, con?
-+ 60/2014/QH13 Luật hộ tịch 2014
++ 60/2014/QH13
 * Điều 44
 120. 412
 - Trường hợp nào không phải xin cấp giấy chuyển hộ khẩu?
 - Quy định của pháp luật về các trường hợp không phải xin giấy chuyển hộ khẩu?
-+ 81/2006/QH11 Luật cư trú 2006
++ 81/2006/QH11
 * Điều 28
 @ khoản 6
 121. 414
 - Người bị bệnh về thần kinh có được kết hôn không?
 - Pháp luật có cho phép người bị bệnh tâm thần được đăng ký kết hôn không?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 5
 * Điều 8
 122. 415
 - Quy định đối với trường hợp phát hiện được cổ vật trong quá trình đào đất xây nhà?
 - Phát hiện cổ vật trong quá trình đào đất xây nhà được xử lý như thế nào?
-+ 91/2015/QH13 Bộ luật Dân sự năm 2015
++ 91/2015/QH13
 * Điều 229
 123. 416
 - Thời hạn giải quyết tin báo về tội phạm là bao nhiêu ngày?
 - Quy định của pháp luật về việc giải quyết tin báo về tội phạm là bao lâu?
-+ 101/2015/QH13 Bộ luật Tố tụng hình sự 2015
++ 101/2015/QH13
 * Điều 147
 124. 417
 - Cung cấp chứng cứ trong giải quyết vụ việc dân sự?
 - Quy định của pháp luật về việc cung cấp chứng cứ, chứng minh trong giải quyết vụ việc dân sự?
-+ 92/2015/QH13 Bộ luật tố tụng Dân sự năm 2015
++ 92/2015/QH13
 * Điều 6
 * Điều 7
 125. 418
 - Góp tiền mua căn hộ chung cư khi bán thì như thế nào?
 - Quy định của pháp luật về việc góp tiền mua chung thì khi bán, định đoạt tài sản chung thì như thế nào?
-+ 91/2015/QH13 Bộ luật Dân sự năm 2015
++ 91/2015/QH13
 * Điều 209
 * Điều 218
 126. 419
 - Điều kiện để các bên tham gia giao dịch về nhà ở?
 - Quy định của pháp luật về điều kiện tham gia giao dịch về nhà ở?
-+ 65/2014/QH13 Luật nhà ở 2014
++ 65/2014/QH13
 * Điều 119
 127. 420
 - Thủ tục cấp mã số định danh cho trẻ sơ?
@@ -749,7 +749,7 @@
 129. 422
 - Cơ quan có thẩm quyền cấp giấy chứng nhận quyền sử dụng đất?
 - Cơ quan nào có thẩm quyền cấp giấy chứng nhận quyền sử dụng đất và tài sản gắn liền với đất?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 105
 130. 424
 - Lập, bảo quản sổ thi hành án dân sự?
@@ -766,18 +766,18 @@
 132. 426
 - Quy định thi hành Quyết định áp dụng biện pháp khẩn cấp tạm thời của Tòa án trong thi hành án dân sự?
 - Quy định của pháp luật thi hành án dân sự về việc áp dụng biện pháp khẩn cấp tạm thời của tòa án?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 130
 133. 427
 - Quy định pháp luật thi hành án dân sự về cưỡng chế kê biên, xử lý quyền sử dụng đất và giải tỏa kê biên tài sản?
 - Cưỡng chế kê biên tài sản là quyền sử dụng đất trong thi hành án dân sự được thực hiện như thế nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 88
 * Điều 89
 134. 428
 - Thi hành quyết định giám đốc thẩm, tái thẩm tuyên hủy bản án, quyết định đã có hiệu lực pháp luật trong thi hành án dân sự thực hiện như thế nào?
 - Quy định của pháp luật về việc thi hành quyết định giám đốc thẩm, tái thẩm đã có hiệu lực pháp luật trong thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 136
 135. 429
 - Quy định xử lý vật chứng khi có Quyết định đình chỉ xét xử vụ án?
@@ -787,12 +787,12 @@
 136. 430
 - Quy định của pháp luật về việc cưỡng chế thi hành án dân sự?
 - Chấp hành thực hiện cưỡng chế thi hành án dân sự trong trường hợp nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 46
 137. 431
 - Quy định của pháp luật về việc ra quyết định thi hành án dân sự?
 - Thủ trưởng cơ quan thi hành án phải ra quyết định thi hành án dân sự trong bao lâu?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 36
 140. 435
 - Điện tích thửa đất nhỏ hơn diện tích tối thiểu có được cấp sổ đỏ không?
@@ -802,7 +802,7 @@
 141. 436
 - Người yêu cầu công chứng không viết được thì làm thế nào?
 - Người yêu cầu công chứng không viết được thì điểm chỉ có được không?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 47
 142. 437
 - Quy định thu tiền, tài sản của người phải thi hành án đang do người thứ ba giữ?
@@ -818,12 +818,12 @@
 144. 439
 - Quy định về xử lý tài sản gắn liền với đất đã kê biên thuộc sở hữu của người khác trong thi hành án dân sự?
 - Xử lý tài sản gắn liền với đất đã kê biên trong thi hành án dân sự thực hiện như thế nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 113
 145. 440
 - Quy định trừ vào thu nhập của người phải thi hành án dân sự?
 - Quy định của pháp luật về việc trừ vào thu nhập của người phải thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 78
 146. 442
 - Quy định về thỏa thuận giảm giá tài sản khi đấu giá không thành?
@@ -840,28 +840,28 @@
 148. 445
 - Thanh lý tài sản công ty cổ phần có phải thông qua hội đồng quản trị không?
 - Giám đốc công ty thực hiện bán tài sản có phải thông qua hội đồng quản trị không?
-+ 68/2014/QH13 Luật Doanh nghiệp 2014
++ 68/2014/QH13
 * điều 162
 149. 446
 - Vay tiền nhưng không trả thì có phải trả cả tiền lãi không?
 - Có phải trả cả lãi khi vay tiền đến hạn không trả không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 466
 @ Khoản 5  
 150. 447
 - Có thể tự do thỏa thuận lãi suất trong hợp đồng cho vay tài sản không?
 - Quy định của pháp luật về việc thỏa thuận lãi suất trong hợp đồng vay tiền?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 468
 151. 448
 - Thông tin số chứng minh nhân dân trong hợp đồng chuyển nhượng quyền sử dụng đất đã được công chứng không đúng với chứng minh nhân dân của chủ thể trong hợp đồng đang sử dụng phải làm thế nào?
 - Thông tin số chứng minh nhân dân trong hợp đồng chuyển nhượng quyền sử dụng đất đã được công chứng không đúng với chứng minh nhân dân gốc phải làm thế nào?
-+ 53/2014/QH13 Luật Công chứng 2014
++ 53/2014/QH13
 * Điều 50
 152. 449
 - Hợp đồng ủy quyền có thể công chứng được không hay phải chứng thực?
 - Việc ủy quyền chuyển nhượng quyền sử dụng đất có thể công chứng hay phải chứng thực?
-+ 53/2014/QH13 Luật Công chứng 2014
++ 53/2014/QH13
 * Điều 2
 @ Khoản 1
 @ Khoản 4
@@ -873,48 +873,48 @@
 154. 451
 - Các tài sản phải thông qua bán đấu giá?
 - Những tài sản nào phải thực hiện việc bán đấu giá?
-+ 01/2016/QH14 Luật đấu giá tài sản 2016
++ 01/2016/QH14
 * Điều 4
 155. 452
 - Trách nhiệm của người nhận thừa kế theo di chúc?
 - Quy định của pháp luật về trách nhiệm của người nhận thừa kế?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 615
 156. 454
 - Hợp đồng ủy quyền thực hiện chuyển nhượng quyền sử dụng đất chấm dứt khi nào?
 - Quy định của pháp luật về việc các trường hợp chấm dứt hợp đồng ủy quyền?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 563
 * Điều 422
 157. 455
 - Kháng cáo bản án tuyên phạm tội lừa đảo chiếm đoạt tài sản?
 - Quy định của pháp luật về việc kháng cáo bản án tuyên phạm tội lừa đảo chiếm đoạt tài sản?
-+ 101/2015/QH13 Bộ luật tố tụng hình sự 2015
++ 101/2015/QH13
 * Điều 332
 * Điều 331
 158. 456
 - Điều kiện giành quyền nuôi con sau khi ly hôn?
 - Quy định của pháp luật về việc giành quyền nuôi con khi ly hôn?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 81
 * Điều 82
 159. 457
 - Tài sản được tặng cho trong thời kỳ hôn nhân có là tài sản chung của vợ chồng không?
 - Được bố mẹ tặng cho đất trong thời kỳ hôn nhân có là tài sản chung của vợ chồng?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 33
 * Điều 43
 160. 458
 - Thời hiệu truy cứu trách nhiệm hình sự?
 - Quy định của pháp luật về thời gian được coi là hết thời hiệu truy cứu trách nhiệm hình sự?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 27
 161. 459
 - Lừa đảo chiếm đoạt tài sản qua mạng xã hội bao nhiêu tiền thì phạm tội?
 - Lừa đảo chiếm đoạt tài sản qua mạng xã hội bao nhiêu tiền thì bị truy cứu trách nhiệm hình sự?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 174
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 2
 @ Khoản 3
 # Điểm c
@@ -922,7 +922,7 @@
 162. 460
 - Thời hạn khởi tố vụ án?
 - Quy định của pháp luật về thời hạn khởi tố vụ án?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 147 
 + 01/2017/TTLT-BCA-BQP-BTC-BNN&PTNT-VKSNDTC
 * Điều 9
@@ -935,18 +935,18 @@
 164. 462
 - Phần bản án nào cơ quan thi hành án dân sự chủ động ra quyết định thi hành?
 - Quy định của pháp luật về phần bản án mà cơ quan thi hành án dân sự chủ động ra quyết định thi hành?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 15
 165. 463
 - Quy định của pháp luật về thủ tục cưỡng chế trả vật trong thi hành án dân sự?
 - Thực hiện cưỡng chế trả vật trong thi hành án dân sự thực hiện như thế nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 114
 166. 464
 - Kê biên tài sản của người phải thi hành án dân sự đang do người thứ ba giữ mà không tự nguyện thì làm thế nào?
 - Kê biên tài sản do người thứ ba đang giữ nhưng không tự nguyện giao tài sản thì chấp hành viên có cưỡng chế không?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 91
 167. 465
 - Điều kiện để được tham gia thi tuyển chấp hành viên?
@@ -959,12 +959,12 @@
 168. 466
 - Quy định của pháp luật về giao tài sản để thi hành án dân sự?
 - Giao tài sản để thi hành án dân sự?   
-+ 26/2008/QH12 Luật thi hành án 2008
++ 26/2008/QH12
 * Điều 100
 169. 467
 - Quy định về thẩm định giá lại tài sản và giảm giá tài sản kê biên trong thi hành án dân sự?
 - Định giá lại tài sản kê biên trong thi hành án dân sự?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 33
 170. 468
@@ -976,7 +976,7 @@
 171. 469
 - Quy định về trừ vào thu nhập của người phải thi hành án dân sự?
 - Trừ thu nhập của người phải thi hành án dân sự thực hiện như thế nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 78
 172. 470
 - Quy định pháp luật về thi hành nghĩa vụ liên đới, trong thi hành nghĩa vụ dân sự?
@@ -991,26 +991,26 @@
 173. 471
 - Nhiệm vụ của cơ quan thi hành án dân sự cấp quân khu?
 - Quy định của pháp luật về nhiệm vụ của cơ quan thi hành án dân sự cấp quân khu?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 15
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 8
 174. 472
 - Quy định người không được tham gia đấu giá tài sản?
 - Những ai không được tham gia đấu giá tài sản?
-+ 01/2016/QH14 Luật đấu giá tài sản 2016
++ 01/2016/QH14
 * Điều 38
 @ Khoản 4
 175. 473
 - Giá trị pháp lý hợp đồng chuyển nhượng quyền sử dụng đất đã công chứng?
 - Hợp đồng chuyển nhượng quyền sử dụng đất được công chứng có hiệu lực khi nào?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 5
 176. 474
 - Hủy hợp đồng chuyển nhượng quyền sử dụng đất có được không và thực hiện như thế nào?
 - Quy định của pháp luật về việc hủy hợp đồng chuyển nhượng quyền sử dụng đất đã được công chứng và thủ tục thực hiện?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 51
 
 177. 475
@@ -1021,12 +1021,12 @@
 178. 477
 - Chữ ký giáp lai trên các trang của hợp đồng chuyển nhượng do văn phòng công chứng?
 - Quy định về việc ký trong hợp đồng chuyển nhượng khi công chứng?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 48
 179. 478
 - Chi phí công chứng?
 - Quy định của pháp luật về những chi phí mà người yêu cầu công chứng phải nộp?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 66
 * điều 67
 * Điều 68
@@ -1041,12 +1041,12 @@
 181. 480
 - Công chứng bản dịch?
 - Quy định của pháp luật trình tự công chứng bản dịch?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 61
 182. 481
 - Công chứng hợp đồng mua bán nhà, ở huyện khác được không?
 - Có thể sang huyện khác để công chứng hợp đồng chuyển nhượng nhà ở không?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 42
 183. 482
 - Chi phí công chứng hợp đồng ủy quyền?
@@ -1058,29 +1058,29 @@
 184. 483
 - Công chứng văn bản phân chia di sản thừa kế?
 - Thủ tục công chứng văn bản thỏa thuận phân chia di sản thừa kế?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 57
 185. 484
 - Từ chối yêu cầu công chứng có phải nêu lý do bằng văn bản không?
 - Công chứng viên từ chối yêu cầu công chứng có cần phải trình bày lý do bằng văn bản không?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 17
 @ khoản 2
 # điểm d
 186. 485
 - Hủy hợp đồng chuyển nhượng đất đã công chứng có được không khi hợp đồng đã có hiệu lực?
 - Hợp đồng chuyển nhượng quyền sử dụng đất được công chứng và đã có hiệu lực thì có thể hủy được không?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 51
 187. 486
 - Công chứng hợp đồng thế chấp quyền sử dụng đất thực hiện như thế nào?
 - Quy định của pháp luật về việc công chứng hợp đồng thế chấp quyền sử dụng đất?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 54
 188. 487
 - Công chứng hợp đồng tín dụng?
 - Thủ tục công chứng hợp đồng tín dụng?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 40
 189. 488
 - Thu phí công chứng khi ký phụ lục thế chấp tài sản?
@@ -1090,13 +1090,13 @@
 190. 490
 - Việc bán tải sản chung cần sự đồng ý của những ai, trường hợp nào?
 - Trong trường hợp nào, độ tuổi nào phải có sự đồng ý khi bán tài sản chung?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 212
 * Điều 218
 191. 491
 - Giao dịch do vợ xác lập thì chồng có phải liên đới thực hiện nghĩa vụ không?
 - Quy định của pháp luật về việc giao dịch do vợ/chồng xác lập thì có phải liên đới chịu trách nhiệm không?
-+ 52/2014/QH13 Luật Hôn nhân và gia đình 2014.  
++ 52/2014/QH13.  
 * Điều 37
 192. 492
 - Quy định của pháp luật về việc cấp giấy chứng nhận trong khi có diện tích nhỏ hơn quy định?
@@ -1112,12 +1112,12 @@
 194. 495
 - Điểm chỉ trong văn bản công chứng?
 - Quy định của pháp luật về việc điểm chỉ trong văn bản công chứng?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 54
 195. 496
 - Thời hạn công chứng?
 - Quy định của pháp luật về thời hạn công chứng của công chứng viên?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 43
 196. 497
 - Quy định thi hành án dân sự đối với nghĩa vụ liên đới?
@@ -1130,36 +1130,36 @@
 197. 498
 - Nghĩa vụ của người phải thi hành án dân sự?
 - Quy định của pháp luật về nghĩa vụ của người phải thi hành án dân sự?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 5
 198. 499
 - Quy định về kê biên, xử lý tài sản chung theo phần của người phải thi hành án dân sự với người khác?
 - Quy định của pháp luật về việc kê biên tài sản chung theo phần của người phải thi hành án dân sự với người khác?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 31
 199. 500
 - Công chứng văn bản thỏa thuận phân chia di sản thừa kế có phải niêm yết không?
 - Có phải niêm yết văn bản thỏa thuận phân chia di sản thừa kế khi công chứng không?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 57
 200. 501
 - Có thể ủy quyền cho người khác khởi kiện dân sự thay được không?
 - Quy định của pháp luật về việc người có quyền khởi kiện dân sự?
-+ 92/2015/QH13 Bộ luật Tố tụng dân sự 2015
++ 92/2015/QH13
 * Điêu 186
 201. 502
 - Người có quyền khởi kiện trong tranh chấp dân sự?
 - Quy định của pháp luật về người có quyền khởi kiện trong tranh chấp dân sự?
-+ 92/2015/QH13 Bộ luật Tố tụng dân sự 2015
++ 92/2015/QH13
 * Điêu 186
 * Điều 4
 * Điều 5
 202. 503
 - Vay tín chấp bằng sổ hộ khẩu?
 - Quy định của pháp luật về việc cho vay tín chấp?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 344
 * Điều 345
 203. 504
@@ -1174,18 +1174,18 @@
 204. 505
 - Xử lý trường hợp nhân viên quầy giữ đồ tại siêu thị làm mất tài sản của khách?
 - Nhân viên quầy giữ đồ tại siêu thị làm mất tài sản của khách có phải bồi thường không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 554
 * Điều 557
 205. 506
 - Bố mẹ chung sống với nhau mà không đăng ký kết hôn thì việc định đoạt tài sản như thế nào?
 - Quy định của pháp luật về việc định đoạt tài sản khi bố mẹ chung sống như vợ chồng mà không đăng ký kết hôn?
-+ 52/2014/QH13 Luật Hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 16
 206. 507
 - Sổ hồ sơ công chứng?
 - Quy định của pháp luật về những giấy tờ có trong hồ sơ công chứng?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 63
 207. 508
 - Đương sự có thể thỏa thuận về việc thi hành án dân sự không?
@@ -1201,18 +1201,18 @@
 209. 510
 - Quy định về xử lý tài sản đang thế chấp để thực hiện nghĩa vụ dân sự trong thi hành án dân sự?
 - Tài sản đang thế chấp có bị kê biên để thực hiện nghĩa vụ của người phải thi hành án dân sự không?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 90
 210. 511
 - Quy định về tiếp nhận yêu cầu thi hành án dân sự?
 - Tiếp nhận yêu cầu thi hành án dân sự được pháp luật hướng dẫn như thế nào?
-+ 64/2014/QH13 Luật thi hành án dân sự 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 13
 211. 512
 - Có thể dùng tài sản của người khác để đảm bảo thực hiện cho nghĩa vụ của mình không?
 - Quy định của pháp luật về tài sản đảm bảo?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 295
 212. 513
 - Quy định về thời điểm tính thuế từ chuyển nhượng bất động sản?
@@ -1223,7 +1223,7 @@
 213. 514
 - Xác định việc chưa có điều kiện thi hành án dân sự?
 - Quy định của pháp luật về xác minh điều kiện thi hành án dân sự?
-+ 64/2014/QH13 Luật thi hành án dân sự 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 17
 214. 515
@@ -1234,30 +1234,30 @@
 215. 516
 - Quy định về thời hạn sử dụng đất khi chuyển mục dích sử dụng đất?
 - Quy định của pháp luật về thời hạn sử dụng đất khi chuyển mục đích sử dụng đất?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 127
 216. 517
 - Xử lý, kê biên tài sản thuộc sở hữu chung chủ, đồng sở hữu được ưu tiên trong thời hạn bao lâu?
 - Xử lý, kê biên tài sản thuộc sở hữu chung chủ, đồng sở hữu được ưu tiên trong thời hạn bao nhiêu ngày?
-+ 64/2014/QH13 Luật thi hành án dân sự 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 31
 217. 518
 - Quyền yêu cầu thi hành án dân sự?
 - Quy định của pháp luật về quyền yêu cầu thi hành án dân sự?
-+ 64/2014/QH13 Luật thi hành án dân sự 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 4
 218. 520
 - Quy định về yêu cầu áp dụng biện pháp bảo đảm trong thi hành án dân sự?
 - Người yêu cầu chấp hành viên áp dụng biện pháp bảo đảm có phải bồi thường khi yêu cầu áp dụng biện pháp không đúng trong thi hành án dân sự không?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 66
 @ khoản 2
 219. 521
 - Bảo đảm hiệu lực của bản án, quyết định của Tòa án và thỏa thuận về thi hành án dân sự?
 - Quy định của pháp luật về vấn đề bảo đảm hiệu lực của bản án và việc thỏa thuận thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 4
 * điều 6
 + 62/2015/NĐ-CP
@@ -1265,12 +1265,12 @@
 220. 522
 - Quy định về việc người phải thi hành án dân sự cố ý không chấp hành án?
 - Người phải thi hành án dân sự cố ý không chấp hành bị xử lý như thế nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 165
 221. 523
 - Quy định về thanh toán tiền thi hành án dân sự?
 - Quy định của pháp luật về việc thực hiện thanh toán tiền thi hành án dân sự của cơ quan thi hành án?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 20
 + 62/2015/NĐ-CP
@@ -1284,23 +1284,23 @@
 223. 525
 - Trường hợp nào thì chấp hành viên phải tiến hành xác minh điều kiện thi hành án dân sự?
 - Chấp hành viên phải tiến hành xác minh điều kiện thi hành án dân sự khi nào?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 17
 224. 526
 - Khi nào một doanh nghiệp được giải thể?
 - Điều kiện để doanh nghiệp được phép giải thể?
-+ 68/2014/QH13 Luật doanh nghiệp 2014
++ 68/2014/QH13
 * Điều 201
 225. 527
 -  Những trường hợp nào tài sản bảo đảm bị xử lý?
 - Quy định của pháp luật về những trường hợp tài sản bảo đảm bị xử lý?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 299
 226. 528
 - Giá trị pháp lý của di chúc đã công chứng khi Văn phòng công chứng chấm dứt hoạt động?
 - Văn phòng công chứng chấm dứt hoạt động thì di chúc đã công chứng còn hiệu lực không?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 2
 @ Khoản 5
 * Điều 54
@@ -1308,7 +1308,7 @@
 227. 530
 - Quy định của pháp luật về thực hiện hợp đồng song vụ?
 - Thực hiện hợp đồng song vụ của hai bên chủ thể như thế nào?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 410
 228. 531
 - Chứng thực bản sao giấy tờ do công ty lập có được không?
@@ -1318,35 +1318,35 @@
 229. 532
 - Không thực hiện cam kết để hoàn thành thủ tục mua bán dù đã được thanh toán đầy đủ có kiện được không?
 - Đã thanh toán đầy đủ tiền nhưng bên kia không thực hiện đúng cam kết về làm thủ tục chuyển nhượng có khởi kiện được không?
-+ 92/2015/QH13 Bộ luật Tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 4
 * Điều 5
 * Điều 186
 230. 534
 - Thế nào là hộ gia đình sử dụng đất?
 - Khái niệm về việc hộ gia đình sử dụng đất?
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 3
 @ Khoản 29
 231. 535
 - Yêu cầu đối với người yêu cầu công chứng?
 - Quy định của pháp luật đối với người yêu cầu công chứng?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 47
 232. 536
 - Quy định của pháp luật về việc tặng cho tài sản là bất động sản?
 - Tặng cho các con bất động sản có cần công chứng không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 459
 233. 537
 - Nghĩa vụ của tổ chức khi được nhà nước giao đất thu tiền thuê đất một lần cho cả thời gian thuê?
 - Nghĩa vụ của tổ chức khi nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê?
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 174
 234. 538
 - Những ai được hưởng tiền trợ cấp tuất hàng tháng?
 - Quy định của pháp luật về những thân nhân được hưởng trợ cấp tuất hàng tháng?
-+ 58/2014/QH13 Luật bảo hiểm xã hội 2014
++ 58/2014/QH13
 * Điều 67
 @ Khoản 2
 235. 539
@@ -1367,29 +1367,29 @@
 237. 541
 - Tổ chức có được thế chấp quyền sử dụng đất thuê trả tiền hàng năm không?
 - Đất của tổ chức được nhà nước cho thuê trả tiền hằng năm có được mang đi thế chấp không?
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 175
 @ Khoản 1
 238. 542
 - Có thể thế chấp tài sản là di sản thừa kế khi chưa có giấy chứng nhận không?
 - Tài sản là di sản thừa kế nhưng chưa làm thủ tục chuyển nhượng thì có được thế chấp tài sản không?
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 168
 239. 543
 - Thế chấp quyền sử dụng đất có bắt buộc phải thực hiện đăng ký giao dịch bảo đảm không?
 - Có bắt buộc phải thực hiện đăng ký giao dịch bảo đảm khi thế chấp quyền sử dụng đất không?
-+ 45/2013/QH13 Luật Đất đai 2013
++ 45/2013/QH13 
 * Điều 12
 @ Khoản 1
 240. 544
 - Điểm chỉ có thay thế cho việc ký trong hợp đồng không?
 - Điểm chỉ thay thế cho việc ký trong trường hợp nào?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 48
 241. 545
 - Các quyền của người lập di chúc?
 - Người lập di chúc có các quyền gì?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 626
 242. 547
 - Thu hồi thẻ Công chứng viên?
@@ -1399,12 +1399,12 @@
 243. 548
 - Ai có quyền yêu cầu tòa án tuyên bố văn bản công chứng vô hiệu?
 - Quy định của pháp luật về người có quyền yêu cầu tòa án tuyên bố văn bản công chứng vô hiệu?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 52
 244. 549
 - Có buộc phải công chứng hợp đồng thuê nhà không?
 - Hợp đồng thuê nhà có bắt buộc phải công chứng không?
-+ 65/2014/QH13 Luật Nhà ở 2014
++ 65/2014/QH13
 * Điều 122
 245. 550
 - Chứng thực chữ ký trong giấy bán, cho, tặng xe?
@@ -1416,12 +1416,12 @@
 246. 551
 - Hủy hợp đồng công chứng đã ký có cần thỏa thuận với người đã giao kết hợp đồng ban đầu không?
 - Đất được tặng cho có công chứng muốn hủy hợp đồng có cần sự đồng ý của người kia không?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 51
 247. 552
 - Có thể lập di chúc ở nơi không có di sản không?
 - Di chúc lập một nơi tài sản ở một nơi có được không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 624
 * Điều 627
 248. 553
@@ -1432,12 +1432,12 @@
 249. 555
 - Phân chia di sản theo thỏa thuận thực hiện công chứng như thế nào?
 - Thủ tục công chứng văn bản thỏa thuận phân chia di sản?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 57
 250. 556
 - Khởi tố vụ án hình sự căn cứ vào những yếu tố nào?
 - Quy định của pháp luật về căn cứ khởi tố hình sự?
-+ 101/2015/QH13 Bộ luật tố tụng hình sự 2015
++ 101/2015/QH13
 * Điều 143
 251. 557
 - Bảo vệ quyền của người mua tài sản bán đấu giá tài sản?
@@ -1448,40 +1448,40 @@
 252. 559
 - Cơ quan thi hành án phải xác nhận thi hành án dân sự trong bao lâu?
 - Quy định của pháp luật về thời hạn xác nhận kết quả thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 53
 + 62/2015/NĐ-CP
 * Điều 37
 253. 560
 - Cơ quan có thẩm quyền giải quyết khiếu nại về thi hành án dân sự?
 - Quy định của pháp luật về cơ quan có thẩm quyền giải quyết khiếu nại về thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 142
 254. 561
 - Thay đổi thành viên hợp danh của văn phòng công chứng như thế nào?
 - Quy định của pháp luật về thay đổi thành viên hợp danh của văn phòng công chứng?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 27
 255. 562
 - Cộng tác viên dịch thuật sử dụng dấu đóng chữ ký?
 - Quy định của pháp luật về việc công chứng bản dịch?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 61
 256. 564
 - Quyền và nghĩa vụ của người được thi hành án dân sự?
 - Quy định của pháp luật về nghĩa vụ của người được thi hành án dân sự?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 4
 257. 565
 - Thời hiệu yêu cầu thi hành án dân sự đối với quyết định thi hành theo định kỳ?
 - Quy định của pháp luật về thời hiệu yêu cầu thi hành án dân sự đối với quyết định thi hành theo định kỳ?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 30
 258. 566
 - Tài sản đang được cơ quan thi hành án cưỡng chế có tranh chấp thì xử lý như thế nào?
 - Quy định của pháp luật về giải quyết khi đang được cơ quan thi hành án cưỡng chế tài sản có tranh chấp?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 32
 259. 567
@@ -1492,26 +1492,26 @@
 260. 568
 - Kê biên quyền sử dụng đất có tài sản gắn liền với đất trường hợp người phải thi hành án dân sự chưa được cấp giấy chứng nhận quyền sử dụng đất?
 - Được kê biên quyền sử dụng đất có tài sản gắn liền với đất trường hợp người phải thi hành án dân sự chưa được cấp giấy chứng nhận quyền sử dụng đất khi nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 110
 * Điều 111
 261. 569
 - Phong tỏa tài khoản của người phải thi hành án dân sự?
 - Quy định của pháp luật về việc phong tỏa tài sản của người phải thi hành án dân sự?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 26
 262. 570
 - Quyền quyết định áp dụng biện pháp khẩn cấp tạm thời của Tòa án?
 - Thẩm quyền quyết định áp dụng biện pháp khẩn cấp tạm thời?
-+ 92/2015/QH13 Bộ luật Tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 112
 263. 571
 - Những bản án, quyết định nào được thi hành án dân sự?
 - Quy định của pháp luật về nhũng bản án, quyết định được thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 2
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 2
 264. 572
@@ -1522,7 +1522,7 @@
 265. 573
 - Mượn đồ của người khác mà không trả thì có thể bị xử lý hình sự như thế nào?
 - Mượn đồ của người khác mà không trả thì có thể bị truy cứu trách nhiệm hình sự theo điều nào?
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 1
 @ Khoản 35
 266. 574
@@ -1533,7 +1533,7 @@
 267. 575
 - Những thiệt hại phải bồi thường do tính mạng bị xâm hại?
 - Gây tai nạn giao thông làm chết người thì phải bồi thường những thiệt hại nào?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 591
 268. 576
 - Tạm đình chỉ chấp hành hình phạt tù?
@@ -1548,21 +1548,21 @@
 270. 577
 - Lấy xe đạp của mà người khác bỏ quên không trả thì có phải chịu trách nhiệm hình sự không?
 - Lấy xe đạp của mà người khác bỏ quên không trả thì có thể bị phạm tội gì?
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 2
 @ Khoản 1
 # điểm d
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 176
 271. 579
 - Phụ lục hợp đồng thế chấp có cần chứng thực không?
 - Ký phụ lục hợp đồng thế chấp có phải chứng thực không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 403
 272. 580
 - Giao dịch với chính mình?
 - Có được xác lập giao dịch giữa người mà mình đại diện với chính mình không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 141
 @ Khoản 3
 273. 581
@@ -1579,73 +1579,73 @@
 275. 584
 - Cha mẹ với con nuôi có nghĩa vụ gì?
 - Quy định của pháp luật về nghĩa vụ của cha mẹ với con nuôi?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 68
 @ Khoản 3
 * Điều 69
 276. 586
 - Quy định của pháp luật về việc xác định cha, mẹ?
 - Con sinh ra trong thời hạn bao nhiêu ngày kể từ thời điểm chấm dứt hôn nhân được coi là có thai trong thời kỳ hôn nhân?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 88
 277. 587
 - Đặt cọc tài sản?
 - Quy định của pháp luật về việc đặt cọc tài sản?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 328
 278. 588
 - Có thể lập di chúc có điều kiện không?
 - Quy định của pháp luật về việc lập di chúc có điều kiện?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 624
 * Điều 626
 279. 589
 - Người giám hộ của người chưa thành niên là ai, điều kiện làm người giám hộ?
 - Ai là người giám hộ cho người chưa thành niên, điều kiện của người giám hộ?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 47
 * Điều 48
 * Điều 49
 280. 590
 - Tặng cho bất động sản có điều kiện?
 - Có thể thêm điều kiện khi tặng cho bất động sản không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 462
 281. 591
 - Người được ủy quyền có nghĩa vụ gì?
 - Nghĩa vụ của người được ủy quyền?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 565
 282. 592
 - Con nuôi có được hưởng thừa kế theo pháp luật không?
 - Con nuôi có thuộc hàng thừa kế theo pháp luật như con đẻ không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 651
 283. 593
 - Người thuê nhà ở được thuê tiếp khi chủ sở hữu nhà cho thuê mất không?
 - Người cho thuê nhà mất thì người thuê có quyền thuê tiếp không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 133
 284. 594
 - Quyền lợi của người thực hiện công việc theo ủy quyền?
 - Quy định của pháp luật về quyền mà người được ủy quyền được nhận?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 566
 285. 595
 - Phân chia di sản thừa kế theo pháp luật?
 - Quy định của pháp luật về phân chia di sản thừa kế theo pháp luật?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 660
 286. 596
 - Nghĩa vụ thanh toán khi chủ nợ qua đời?
 - Chủ nợ mất thì nghĩa vụ thanh toán thực hiện như thế nào?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 615
 * Điều 658
 287. 597
 - Chia di sản thừa kế khi anh trai chết không để lại di chúc?
 - Anh trai chết không di chúc thì di sản thừa kế được chia như thế nào?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 650
 * Điều 651
 * Điều 660
@@ -1663,31 +1663,31 @@
 290. 600
 - Phân chia di sản thừa kế theo pháp luật khi một người chết không di chúc?
 - Phân chia di sản thừa kế theo pháp luật khi vợ hoặc chồng chết không di chúc?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 650
 * Điều 651
 * Điều 660
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 66
 291. 601
 - Hậu quả của giao dịch dân sự vô hiệu?
 - Quy định của pháp luật về hậu quả của giao dịch dân sự vô hiệu?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 131
 292. 602
 - Đăng hình ảnh, video riêng tư của người khác có vi phạm pháp luật không?
 - Tự ý đăng hình ảnh riêng tư của người khác có vi phạm pháp luật không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 32
 293. 604
 - Ủy quyền chuyển nhượng quyền sử dụng đất công chứng như thế nào?
 - Quy định của pháp luật về thủ tục công chứng việc ủy quyền chuyển nhượng quyền sử dụng đất?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 55
 294. 605
 - Người đại diện có thể yêu cầu tòa án tuyên bố giao do người chưa thành niên thực hiện vô hiệu không?
 - Giao dịch của người chưa thành niên phải được sự đồng ý của người đại diện mà tự thực hiện thì có thể tuyên vô hiệu không? 
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 125
 295. 606
 - Tố cáo hành vi lừa đảo qua mạng chiếm đoạt tài sản có thể bị xử phạt hành chính theo điều nào?
@@ -1697,7 +1697,7 @@
 296. 607
 - Người trộm cắp tài sản tự nguyện trả lại tài sản thì có được coi là tình tiết giảm nhẹ không?
 - Tự nguyện trả lại tài sản đã trộm cắp có được coi là tình tiết giảm nhẹ không?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 176
 297. 608
 - Việc chứng thực chữ kí có yếu tố nước ngoài?
@@ -1728,7 +1728,7 @@
 302. 614
 - Tài sản thuộc sở hữu chung thì có bị kê biên xử lý không, thủ tục như thế nào?
 - Quy định của pháp luật về việc kê biên xử lý tài sản chung?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 31
 303. 615
@@ -1757,58 +1757,58 @@
 307. 619
 - Có phải điền thông tin về tài sản khi làm đơn yêu cầu thi hành án dân sự?
 - Có phải điền thông tin về tài sản của người phải thi hành án dân sự khi làm đơn yêu cầu thi hành án không?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 13
 308. 620
 - Nhiệm vụ quyền hạn và những việc chấp hành viên không được làm trong thi hành án dân sự?
 - Quy định của pháp luật về những việc chấp hành viên không được làm và nhiệm vụ của chấp hành viên trong thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 20
 * Điều 21
 309. 621
 - Thời hạn chấp hành viên phải ra quyết định thi hành án dân sự?
 - Quy định của pháp luật về thời hạn chấp hành viên phải ra quyết định thi hành án dân sự?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 15
 310. 622
 - Người được nhà nước giao nhiệm vụ thi hành bản án của tòa án dân sự?
 - Ai là người được nhà nước giao nhiệm vụ thi hành bản án của tòa án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 20
 311. 624
 - Thời điểm làm đơn yêu cầu thi hành án dân sự?
 - Quy định của pháp luật về thời điểm làm đơn thi hành án dân sự?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 4
 @ Khoản 13
 312. 625
 - Bố không để lại di chúc cho mẹ hưởng tài sản thì mẹ có được đòi chia tài sản cho mình không?
 - Bố không để lại di chúc cho mẹ thì mẹ có quyền đòi phân chia di sản không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 644
 313. 632
 - Công chứng văn bản khai nhận thừa kế ngoài trụ sở được không?
 - Thực hiện công chứng văn bản khai nhận thừa kế di sản ở nơi có di sản được không?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 44
 314. 633
 - Xâm phạm quyền riêng tư cá nhân có vi phạm không?
 - Quy định của pháp luật về quyền riêng tư của cá nhân?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 38
 315. 634
 - Sử dụng phiếu lý lịch tư pháp số 2 thay cho phiếu số 1 được không?
 - Có thể sử dụng phiếu lý lịch tư pháp số 2 thay cho số 1 không?
-+ 28/2009/QH12 Luật lý lịch tư pháp năm 2009
++ 28/2009/QH12
 * Điều 7
 * Điều 41
 316. 635
 - Quy định của pháp luật về việc giao đất có thu tiền sử dụng đất?
 - Nhà nước giao đất có thu tiền trong trường hợp nào?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 55
 + 45/2014/NĐ-CP
 * Điều 2
@@ -1816,7 +1816,7 @@
 317. 636
 - Quy định về việc chi trả lương cao hơn lương tối thiểu của nhà nước?
 - Trả lương cho người lao động bằng mức lương tối thiểu vùng được không?
-+ 10/2012/QH13 Bộ luật lao động 2012
++ 10/2012/QH13
 * Điều 90
 + 23/2015/TT-BLĐTBXH
 * Điều 3
@@ -1826,67 +1826,67 @@
 318. 638
 - Trả lại đơn yêu cầu mở thủ tục phá sản trong trường hợp nào?
 - Đơn yêu cầu mở thủ tục phá sản bị trả lại khi nào?
-+ 51/2014/QH13 Luật phá sản 2014
++ 51/2014/QH13
 * Điều 35
 319. 644
 - Từ chối di sản thừa kế?
 - Cá nhân có quyền từ chối nhận di sản thừa kế không?
-+ 10/2012/QH13 Bộ luật lao động 2012
++ 10/2012/QH13
 * Điều 620
 320. 667
 - Việc xác minh điều kiện thi hành án dân sự có phải lập thành văn bản không?
 - Quy định của pháp luật có bắt buộc việc xác minh điều kiện thi hành án dân sự bằng văn bản không?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ Khoản 4
 @ Khoản 17
 321. 732
 - Tài sản chung với người khác có được gộp cùng với di sản để chia tài sản không?
 - Quy định của pháp luật về di sản được đem để chia thừa kế?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 612
 322. 795
 - Quyền, nghĩa vụ chăm sóc con của cha, mẹ?
 - Quy định của pháp luật về quyền và nghĩa vụ chăm sóc con của cha mẹ?
-+ 52/2014/QH13 Luật Hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 71
 323. 802
 - Có được ủy quyền đăng ký kết hôn không?
 - Có được ủy quyền cho người khác đi làm thủ tục đăng ký kết hôn không?
-+ 52/2014/QH13 Luật Hôn nhân và gia đình 2014.  
++ 52/2014/QH13.  
 * Điều 9
-+ 60/2014/QH13 Luật hộ tịch 2014
++ 60/2014/QH13
 * Điều 18
 324. 817
 - Các hành vi bị cấm trong tố cáo?
 - Quy định của pháp luật về hành vi bị cấm trong tố cáo?
-+ 25/2018/QH14 Luật Tố cáo 2018
++ 25/2018/QH14
 * Điều 8
 325. 839
 - Thủ tục yêu cầu thi hành án dân sự về việc bồi thường?
 - Thủ tục yêu cầu thi hành án về việc bồi thường theo hợp đồng trong thi hành án dân sự?
-+ 64/2014/QH13 Luật thi hành án sửa đổi, bổ sung 2014
++ 64/2014/QH13
 * Điều 1
 @ khoản 13
 @ khoản 49
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 30
 326. 873
 - Tôi mới sinh ra thì cha mẹ ly hôn tôi có được coi là con chung của ba mẹ không?
 - Ba mẹ ly hôn khi tôi mới sinh ra thì tôi có được coi là con chung của ba mẹ không?
-+ 52/2014/QH13 Luật Hôn nhân và gia đình 2014 
++ 52/2014/QH13 
 * Điều 88
 327. 1016
 - Người đã có con ruột có được nhận con nuôi nữa không?
 - Có được nhận con nuôi khi đã có con đẻ rồi không?
-+ 52/2010/QH12 Luật nuôi con nuôi 2010
++ 52/2010/QH12
 * Điều 8
 * Điều 13
 * Điều 14
 328. 1076
 - Thế nào là thuận tình ly hôn?
 - Quy định của pháp luật về việc thuận tình ly hôn?
-+ 52/2014/QH13 Luật Hôn nhân và gia đình 2014 
++ 52/2014/QH13 
 * Điều 55
 329. 1367
 - Chứng thực văn bản do cơ quan, tổ chức nước ngoài cấp?
@@ -1896,7 +1896,7 @@
 330. 1422
 - Quy định của pháp luật về thời hạn đương nhiên được xóa án tích và thủ tục yêu cầu xóa án tích?
 - Thời hạn đương nhiên được xóa án tích và thủ tục cập nhập thông tin về việc xóa án tích?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 70
 331. 1426
 - Quy định của pháp luật về việc đăng ký giữ quốc tịch Việt Nam?
@@ -1909,25 +1909,25 @@
 332. 1529
 - Cơ quan nào có thẩm quyền cấp, đổi, cấp lại căn cước công dân?
 - Quy định của pháp luật về cơ quan có thẩm quyền về việc cấp, đổi, cấp lại căn cước công dân?
-+ 59/2014/QH13 Luật căn cước công dân 2014
++ 59/2014/QH13
 * Điều 26
 * Điều 27
 333. 1540
 - Tặng cho quyền sử dụng đất khi chưa có giấy chứng nhận quyền sử dụng đất được không?
 - Quy định của pháp luật về việc tặng cho quyền sử dụng đất khi chưa có giấy chứng nhận quyền sử dụng đất?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 188
 334. 1556
 - UBND xã ra quyết định giải quyết tranh chấp đất đai đúng hay sai?
 - UBND xã ra có thẩm quyền giải quyết tranh chấp đất đai không?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 202
 335. 1606
 - Tội trộm cắp tài sản được quy định như thế nào?
 - Pháp luật quy định như thế nào tội trộm cắp tài sản?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 173
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 1
 @ khoản 34
 336. 1672
@@ -1946,12 +1946,12 @@
 338. 1727
 - Cơ quan đại diện ngoại giao có quyền công chứng văn bản ủy quyền không?
 - Quy định của pháp luật về thẩm quyền công chứng văn bản ủy quyền của cơ quan đại diện ngoại giao?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 78
 339. 1965
 - Thẩm quyền của tòa án giải quyết yêu cầu chia di sản thừa kế là bất động sản?
 - Quy định của pháp luật về thẩm quyền giải quyết yêu cầu chia di sản thừa kế là bất động sản?
-+ 92/2015/QH13 Bộ luật dân sự 2015
++ 92/2015/QH13
 * Điều 35
 * Điều 37
 * Điều 39
@@ -1959,12 +1959,12 @@
 340. 2045
 - Rút tiền gửi tiết kiệm là di sản thừa kế khi chủ sở hữu đang hôn mê có được không?
 - Hôn mê chưa chết có làm thủ tục khai nhận di sản thừa kế được không?
-+ 92/2015/QH13 Bộ luật dân sự 2015
++ 92/2015/QH13
 * Điều 611
 341. 2126
 - Hình thức của hợp đồng ủy quyền?
 - Quy định của pháp luật về hình thức của hợp đồng ủy quyền?
-+ 92/2015/QH13 Bộ luật dân sự 2015
++ 92/2015/QH13
 * Điều 562
 * Điều 563
 * Điều 564
@@ -1972,58 +1972,58 @@
 342. 2128
 - Khiếu nại việc lấn chiếm đất đai đang được cơ quan nào có thẩm quyền giải quyết?
 - Tranh chấp đất đai khiếu nại đến cơ quan nào?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 202
 343. 2129
 - Giá trị pháp lý của giấy vay tiền?
 - Giấy vay tiền viết tay có hiệu lực không?
-+ 92/2015/QH13 Bộ luật dân sự 2015
++ 92/2015/QH13
 * Điều 117
 344. 2130
 - Phân chia tài sản của vợ chồng theo quy định của Luật Hôn nhân và gia đình?
 - Quy định của luật hôn nhân và gia đình về việc phân chia tài sản của vợ chồng?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 59
 345. 2131
 - Quyền thăm nom, nuôi dưỡng con sau ly hôn theo quy định của Luật Hôn nhân và gia đình?
 - Quy định của luật hôn nhân và gia đình về quyền thăm nom, nuôi dưỡng con sau khi ly hôn?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 82
 346. 2132
 - Tính hợp pháp của di chúc và việc phân chia tài sản của vợ, chồng khi ly hôn theo quy định pháp luật?
 - Tính hợp pháp của di chúc và việc phân chia tài sản của vợ, chồng khi ly hôn?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 59
-+ 92/2015/QH13 Bộ luật dân sự 2015
++ 92/2015/QH13
 * Điều 630
 347. 2134
 - Người việt nam định cư ở nước ngoài được sở hữu nhà tại Việt Nam khi đáp ứng điều kiện gì?
 - Điều kiện để người việt nam định cư ở nước ngoài được sở hữu nhà tại Việt Nam?
-+ 65/2014/QH13 Luật nhà ở 2014
++ 65/2014/QH13
 * Điều 8
 348. 2135
 - Như thế nào bị coi là đồng phạm và định hình phạt đối với người đồng phạm?
 - Quy định của pháp luật về đồng phạm?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 17
 * Điều 58
 349. 2136
 - Người lao động được đơn phương chấm dứt hợp đồng lao động trong trường hợp nào?
 - Những trường hợp người lao động được đơn phương chấm dứt hợp đồng lao động đúng pháp luật?
-+ 10/2012/QH13 Bộ luật lao động 2012
++ 10/2012/QH13
 * Điều 37
 + 05/2015/NĐ-CP
 * Điều 11
 350. 2137
 - Chấm dứt hợp đồng lao động với lao động nữ có thai có được không?
 - Có được chấm dứt hợp đồng khi người lao động nữ đang mang thai không?
-+ 10/2012/QH13 Bộ luật lao động 2012
++ 10/2012/QH13
 * Điều 155
 * Điều 39
 351. 2138
 - Ký kết Hợp đồng lao động?
 - Quy định của pháp luật về việc ký kết hợp đồng lao động?
-+ 10/2012/QH13 Bộ luật lao động 2012
++ 10/2012/QH13
 * Điều 15
 * Điều 18
 352. 2139
@@ -2034,7 +2034,7 @@
 353. 2140
 - Có nhiều người được thi hành án dân sự thì thực hiện thanh toán tiền như thế nào?
 - Quy định của pháp luật việc thanh toán tiền thi hành án dân sự khi có nhiều người cùng được thi hành án?
-+ 26/2008/QH12 Luật Thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 47
 354. 2141
 - Mức chi phí cho việc cưỡng chế thi hành án dân sự?
@@ -2044,7 +2044,7 @@
 355. 2143
 - Bỏ sót người thừa kế khi chia di sản thừa kế thì phân chia lại như thế nào?
 - Vẫn còn người thừa kế thì thực hiện việc phân chia như thế nào?
-+ 92/2015/QH13 Bộ luật dân sự 2015
++ 92/2015/QH13
 * Điều 662
 356. 2144
 - Đăng ký giao dịch đảm bảo hợp đồng thế chấp quyền sử dụng đất?
@@ -2054,12 +2054,12 @@
 357. 2145
 - Quy định của pháp luật về việc phương thức thanh toán?
 - Phương thức thanh toán theo quy định của pháp luật?
-+ 92/2015/QH13 Bộ luật dân sự 2015
++ 92/2015/QH13
 * Điều 433
 358. 2146
 - Hạn mức giao đất nông nghiệp?
 - Quy định của pháp luật về hạn mức giao đất nông nghiệp?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 129
 359. 2147
 - Thẩm quyền chứng thực các giấy tờ tiếng nước ngoài?
@@ -2069,7 +2069,7 @@
 360. 2148
 - Quy định của pháp luật việc sử dụng tài sản riêng của vợ chồng?
 - Sử dụng tài sản riêng của vợ chồng?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 44
 361. 2149
 - Văn bản không được chứng thực?
@@ -2079,22 +2079,22 @@
 362. 2150
 - Quyết định về cấm chuyển dịch tài sản của Tòa án 
 - Quy định của pháp luật về việc cấm chuyển dịch tài sản của Tòa án?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 121
 363. 2152
 - Quy định của pháp luật về việc sử dụng tài sản chung của vợ chồng?
 - Tài sản chung của vợ chồng được xác định như thế nào?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 35
 364. 2153
 - Thế nào là tài sản không có người nhận thừa kế?
 - Quy định của pháp luật về tài sản không có người thừa kế?
-+ 92/2015/QH13 Bộ luật dân sự 2015
++ 92/2015/QH13
 * Điều 622
 365. 2155
 - Quy định của pháp luật về việc thế chấp quyền sử dụng đất mà không thế chấp tài sản gắn liền với đất?
 - Thế chấp quyền sử dụng đất mà không thế chấp tài sản gắn liền với đất?
-+ 92/2015/QH13 Bộ luật dân sự 2015
++ 92/2015/QH13
 * Điều 325
 366. 2156
 - Hồ sơ sang tên di chuyển xe từ tỉnh này sang tỉnh khác?
@@ -2104,17 +2104,17 @@
 367. 2157
 - Có được hủy hợp đồng tặng cho nhà ở sau khi đã công chứng rồi không?
 - Có hủy được hợp đồng tặng cho nhà ở sau khi đã công chứng tại cơ quan công chứng không?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 51
 368. 2158
 - Quy định của pháp luật về việc cấp trích lục bản án?
 - Cấp trích lục bản án của tòa án?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 269
 369. 2159
 - Quyền khiếu nại tố cáo trong tố tụng hình sự?
 - Quy định của pháp luật về quyền khiếu nại tố cáo trong tố tụng hình sự?
-+ 101/2015/QH13 Bộ luật tố tụng hình sự 2015
++ 101/2015/QH13
 * Điều 32
 370. 2161
 - Cơ quan có thẩm quyền đăng ký xe cho người nước ngoài tại Việt Nam?
@@ -2141,36 +2141,36 @@
 374. 2165
 - Tội cố ý gây thương tích cho người khác bị xử lý như thế nào?
 - Quy định của pháp luật về hành vi cố ý gây thương tích bị truy cứu trách nhiệm hình sự như thế nào?
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 1
 @ Khoản 22
 375. 2166
 - Nguời chưa thành niên trộm cắp tài sản có bị truy cứu trách nhiệm hình sự không?
 - Người chưa thành niên phạm tội trộm cắp tài sản có bị truy cứu trách nhiệm hình sự không?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 12
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 1
 @ Khoản 3
 376. 2167
 - Tiêu thụ tài sản do người khác phạm tội mà có, bị truy cứu trách nhiệm hình sự như thế nào?
 - Tiêu thụ tài sản do người khác phạm tội mà có bị xử lý hình sự không, theo điều nào?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 323
 377. 2168
 - Mức lãi suất tối đa theo bộ luật dân sự hiện hành là bao nhiêu?
 - Quy định của pháp luật dân sự về mức lãi suất tối đa mà các bên có thể thỏa thuận?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 468
 378. 2169
 - Tội chống người thi hành công vụ bị xử lý như thế nào?
 - Quy định của pháp luật về tội chống người thi hành công vụ?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 330
 379. 2170
 - Lãi suất thỏa thuận trong hợp đồng vay tối đa là bao nhiêu theo bộ luật dân sự hiện hành?
 - Quy định của pháp luật dân sự về lãi suất trong trường hợp cho vay tiền?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 468
 380. 2171
 - Xử phạt vi phạm hành chính đối với hành vi gây thương tích mà chưa đến mức bị truy cứu trách nhiệm hình sự?
@@ -2180,7 +2180,7 @@
 381. 2172
 - Xác định tài sản thuộc sở hữu chung vợ chồng theo quy định của Luật Hôn nhân và gia đình?
 - Quy định của pháp luật về việc xác định phần tài sản chung của vợ chồng?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 33
 + 126/2014/NĐ-CP
 * Điều 9
@@ -2188,7 +2188,7 @@
 382. 2173
 - Hiệu lực của Giấy chứng nhận đăng ký kết hôn theo quy định pháp luật?
 - Giấy chứng nhận đăng ký kết hôn có hiệu lực đến bao giờ?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 57
 * Điều 3
 @ khoản 14
@@ -2196,135 +2196,135 @@
 383. 2174
 - Đương nhiên được xóa án tích được quy định như thế nào, điều luật nào?
 - Trường hợp nào và quy định của pháp luật về đương nhiên được xóa án tích?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 70
 384. 2175
 - Người yêu cũ của bạn có hành vi giữ 1 laptop, 1 máy ảnh và một số vật dụng với tổng giá trị gần 20 triệu đồng có thể bị truy cứu trách nhiệm hình sự theo điều nào?
 - Quy định của pháp luật hình sự về hành vi chiếm giữ tài sản của người khác không trả?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 176
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 2
 @ khoản 3
 # Điểm b
 385. 2176
 - Vi phạm quy định về lãi suất theo bộ luật dân sự thì có bị truy cứu trách nhiệm hình sự không?
 - Vi phạm quy định về lãi suất theo dân sự thì bị xử lý hình sự theo điều nào?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 201
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 2
 @ khoản 2
 # Điểm i
 386. 2177
 - Yêu cầu bảo vệ môi trường đối với hộ gia đình quy định như thế nào?
 - Quy định của pháp luật về việc bảo vệ môi trường của hộ gia đình?
-+ 55/2014/QH13 Luật bảo vệ môi trường 2014
++ 55/2014/QH13
 * Điều 82
 387. 2178
 - Vu khống người khác bị xử lý hình sự như thế nào
 - Quy định của pháp luật hình sự về tội vu khống người khác?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 156
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 2
 @ khoản 2
 # Điểm e
 388. 2179
 - Nhập cảnh trái phép về Việt Nam bị xử lý hình sự theo điều nào?
 - Quy định của pháp luật về nhập cảnh trái phép?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 347
 389. 2180
 - Có tội chống người thi hành công vụ không?
 - Hình phạt có thể bị áp dụng đối với người phạm tội chống người thi hành công vụ?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 330
 390. 2181
 - Cưỡng chế chuyển giao nghĩa vụ thi hành án dân sự giao đất?
 - Quy định của pháp luật về việc cưỡng chế chuyển giao quyền sử dụng đất trong thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 117
 391. 2182
 - Quy định của pháp luật về việc sửa đổi bổ sung quyết định về thi hành án dân sự?
 - Sửa đổi, bổ sung quyết định về thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 37
 392. 2183
 - Thi hành án khi có thay đổi giá tài sản trong thi hành án dân sự?
 - Quy định của pháp luật về việc thi hành án dân sự khi có thay đổi giá trị tài sản tại thời điểm thi hành?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 359
 + 62/2015/NĐ-CP
 * Điều 17
 393. 2184
 - Đòi tài sản đã mua được thông qua bán đấu giá tài sản thi hành án dân sự trong trường hợp nào?
 - Có thể tuyên giao dịch vô hiệu do người thứ ba nhận được tài sản thì việc bán đấu giá tài sản qua thi hành án dân sự?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 133
 394. 2185
 - Ra quyết định tiếp tục thi hành án dân sự khi người nhà nộp tiền thay?
 - Quy định của pháp luật về việc tiếp tục thi hành án dân sự khi người nhà nộp tiền thay?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 48
 395. 2186
 - Thi hành án phí trong bản án hình sự?
 - Quy định của pháp luật về thi hành án phí của bản án hình sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 28
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ khoản 11
 396. 2188
 - Thời gian tự nguyện thi hành án dân sự?
 - Quy định của pháp luật về thời gian tự nguyện thi hành án dân sự?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ khoản 19
 397. 2190
 - Cấp giấy chứng nhận quyền sử dụng đất khi không có giấy tờ về đất trong trường hợp nào?
 - Không có giấy tờ về đất nhưng sử dụng lâu dài thì có được cấp giấy chứng nhận quyền sử dụng đất không?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 101
 398. 2192
 - Điều kiện giải thể doanh nghiệp?
 - Các trường hợp giải thể doanh nghiệp?
-+ 68/2014/QH13 Luật doanh nghiệp 2014
++ 68/2014/QH13
 * Điều 201
 399. 2193
 - Nguyên tắc phân chia tài sản khi ly hôn?
 - Quy định của pháp luật về nguyên tắc phân chia tài sản ly hôn?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 59
 + 01/2016/TTLT-TANDTC-VKSNDTC-BTP
 * Điều 7
 400. 2194
 - Quyền thăm nom con sau khi ly hôn?
 - Quy định của pháp luật về quyền thăm nom sau khi ly hôn?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 82
 * Điều 83
 401. 2195
 - Tính hợp pháp của di chúc không có người làm chứng?
 - Di chúc không có người làm chứng hợp pháp khi nào?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 630
 402. 2196
 - Điều kiện thế chấp quyền sử dụng đất?
 - Mảnh đất được thế chấp khi đáp ứng những điều kiện gì?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 188
 403. 2197
 - Trách nhiệm của Chấp hành viên thi hành án dân sự?
 - Quy định của pháp luật về trách nhiệm của chấp hành viên thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 20
 404. 2198
 - Xử lý hình sự hành vi sử dụng trái phép tài sản của người khác?
 - Quy định của pháp luật về truy cứu trách nhiệm hình sự đối với việc sử dụng trái phép tài sản của người khác?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 177
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 2
 @ khoản 1
 # Điểm d
@@ -2337,7 +2337,7 @@
 406. 2202
 - Ủy quyền định đoạt tài sản đang thế chấp có được không?
 - Quy định của pháp luật về việc ủy quyền cho người khác định đoạt tài sản đang thế chấp?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 562
 * Điều 563
 * Điều 564
@@ -2348,61 +2348,61 @@
 408. 2204
 - Định đoạt quyền sử dụng đất của con tám tuổi?
 - Quy định của pháp luật về việc định đoạt tài sản của con tám tuổi về quyền sử dụng đất?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 76
 * Điều 77
 409. 2206
 - Văn bản hủy hợp đồng đã được công chứng có phải công chứng không?
 - Văn bản thỏa thuận hủy bỏ hợp đồng đã được công chứng thực hiện công chứng như thế nào?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 51
 410. 2207
 - Công chứng viên cần kiểm tra gì khi công chứng văn bản thỏa thuận phân chia di sản?
 - Công chứng văn bản thỏa thuận phân chia di sản công chứng viên cần thực hiện những việc gì?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 57
 411. 2209
 - Có quyền đòi lại tài sản do người thứ ba đang giữ trong trường hợp nào?
 - Quy định của pháp luật về đòi lại tài sản từ người thứ ba?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 133
 412. 2210
 - Thủ tục công chứng hợp đồng chuyển nhượng quyền sử dụng đất?
 - Quy định của pháp luật về thủ tục công chứng hợp đồng chuyển nhượng quyền sử dụng đất?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 40
 * Điều 41
 413. 2211
 - Thừa kế theo pháp luật được áp dụng trong trường hợp nào?
 - Khi nào thì áp dụng thừa kế theo pháp luật?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 650
 414. 2212
 - Những đối tượng nào không được nhận chuyển nhượng quyền sử dụng đất?
 - Quy định của pháp luật về những đối tượng không được nhận tặng cho quyền sử dụng đất?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 191
 415. 2213
 - Hợp đồng chưa công chứng có hiệu lực không?
 - Quy định của pháp luật về hình thức của hợp đồng?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 117
 * Điều 119
 416. 2214
 - Yêu cầu của pháp luật về hình thức của di chúc?
 - Quy định của pháp luật về hình thức của di chúc?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 627
 417. 2215
 - Quy định của pháp luật hiện hành về tội lạm dụng tín nhiệm chiếm đoạt tài sản?
 - Tội lạm dụng tín nhiệm chiếm đoạt tài sản bị xử lý như thế nào, khung hình phạt cao nhất là bao nhiêu?
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 1
 @ Khoản 35
 418. 2216
 - Người đang chịu hình phạt tù bị có được hưởng thừa kế không?
 - Người đang bị giam do phạm tội có được hưởng thừa kế không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 621
 419. 2217
 - Hồ sơ đăng ký thay đổi thông tin đăng ký thuế?
@@ -2412,7 +2412,7 @@
 420. 2219
 - Định đoạt tài sản có trước thời kỳ hôn nhân?
 - Ai là người có quyền định đoạt tài sản có trước thời kỳ hôn nhân?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 33
 * Điều 34
 * Điều 42
@@ -2420,22 +2420,22 @@
 421. 2220
 - Thời gian nghỉ hưởng chế độ thai sản?
 - Quy định của pháp luật về thời gian nghỉ hưởng chế độ thai sản?
-+ 58/2014/QH13 Luật bảo hiểm xã hội 2014
++ 58/2014/QH13
 * Điều 34
 422. 2221
 - Vợ hoặc chồng có quyền tự do trong việc lựa chọn người thừa kế không?
 - Quy định của pháp luật về quyền tự do trong việc chọn người thừa kế của vợ chồng?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 621
 423. 2222
 - Thời hiệu yêu cầu tòa án khởi kiện giải quyết việc dân sự?
 - Quy định của pháp luật về thời hiệu yêu cầu tòa án giải quyết việc dân sự?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 184
 424. 2223
 - Quyền của doanh nghiệo cho thuê lại đất được giao trả tiền một lần cho cả thời gian thuê?
 - Quy định của pháp luật về việc cho thuê lại đất thuê trả tiền một lần của tổ chức?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 174
 425. 2224
 - Quy định về đăng ký hộ kinh doanh?
@@ -2446,7 +2446,7 @@
 426. 2225
 - Trách nhiệm pháp lý của thành viên do chậm góp vốn?
 - Hậu quả pháp lý của thành viên chậm góp vốn?
-+ 68/2014/QH13 Luật doanh nghiệp 2014
++ 68/2014/QH13
 * Điều 48
 427. 2226
 - Hồ sơ xin chấp thuận chủ trương của ủy ban nhân dân tỉnh?
@@ -2456,14 +2456,14 @@
 428. 2227
 - Giao dịch dân sự vô hiệu do giả tạo?
 - Quy định của pháp luật về việc giao dịch dân sự vô hiệu do giả tạo?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 124
 429. 2228
 - Người phạm tội cho vay nặng lãi có bị thu hồi khoản tiền bất chính đó không?
 - Quy định của pháp luật những hình phạt mà người phạm tội cho vay lãi nặng?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 201
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 2
 @ khoản 2
 # Điểm i
@@ -2477,42 +2477,42 @@
 431. 2231
 - Xác định tài sản riêng của vợ, chồng trong thời kỳ hôn nhân?
 - Quy định của pháp luật về việc xác định tài sản riêng của vợ chồng trong thời kỳ hôn nhân?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 43
 + 126/2014/NĐ-CP
 * Điều 11
 432. 2232
 -  Thời hiệu yêu cầu khởi kiện về quyền thừa kế vừa có bất động sản và động sản?
 - Di sản thừa kế vừa có động sản vừa có bất động sản thì thời hiệu yêu cầu khởi kiện là bao lâu?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 623
 433. 2233
 - Chia thừa kế không có di chúc thì phải làm thế nào?
 - Quy định của pháp luật về việc chia di sản thừa kế mà người chết không để lại di chúc?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 651
 * Điều 660
 434. 2235
 - Thẩm quyền thu hồi đất công ích của xã, phường thị trấn?
 - Cơ quan nào có thẩm quyền thu hồi đất công ích của xã?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 66
 435. 2236
 - Anh chị em ruột được hưởng di sản thừa kế của nhau theo pháp luật không?
 - Chia di sản thừa kế theo pháp luật thì anh chị em ruột có được hưởng của nhau không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 651
 436. 2237
 - Nhiệm vụ của Chấp hành viên thi hành án dân sự?
 - Quy định của pháp luật về nhiệm vụ của chấp hành viên thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 20
 437. 2238
 - Sử dụng trái phép tài sản của người khác bị xử lý hình sự như thế nào?
 - Sử dụng trái phép tài sản của người khác bị xử phạt hình sự như thế nào?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 177
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 2
 @ khoản 1
 # Điểm d
@@ -2520,62 +2520,62 @@
 438. 2239
 - Nội dung có trong đơn khởi kiện?
 - Quy định của pháp luật về những nội dung phải có trong đơn khởi kiện?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 189
 439. 2241
 - Năng lực hành vi dân sự của người chưa thành niên?
 - Quy định của pháp luật năng lực hành vi dân sự của người chưa thành niên?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 19
 * Điều 20
 * Điều 21
 440. 2243
 - Tài sản trong khối tài sản chung có được là tài sản trong khối di sản thừa kế không?
 - Quy định của pháp luật về tài sản được được coi là di sản thừa kế, có tính tài sản trong khối tài sản chung không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 612
 441. 2244
 - Quy định của pháp luật về tài sản bắt buộc phải không qua bán đấu giá và tài sản không bắt buộc phải qua bán đấu giá?
 - Quy định của pháp luật về những tài sản bắt buộc và không bắt buộc phải thực hiện bán đấu giá?
-+ 01/2016/QH14 Luật đấu giá tài sản 2016
++ 01/2016/QH14
 * Điều 4
 442. 2345
 - Hiệu lực của hợp đồng chuyển nhượng quyền sử dụng đất đã công chứng?
 - Hợp đồng chuyển nhượng đất đã công chứng có hiệu lực khi nào?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 5
 443. 2346
 - Hiệu lực của biện pháp cầm cố tài sản?
 - Quy định của pháp luật về hiệu lực của biện pháp cầm cố tài sản?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 309
 * Điều 310
 444. 2347
 - Thẩm quyền công chứng văn bản khai nhận di sản thừa kế là bất động sản?
 - Quy định của pháp luật về thẩm quyền công chứng văn bản khai nhận di sản thừa kế là bất động sản?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 42
 * Điều 44
 445. 2245
 - Thủ tục nộp đơn khởi kiện vi phạm hợp đồng?
 - Quy định của pháp luật về thủ tục nộp đơn khởi kiện vi phạm hợp đồng?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 189
 * Điều 190
 446. 2246
 - Mẹ chết không di chúc thì các con có được hưởng tài sản cùng hàng với bố không?
 - Quy định của pháp luật về mẹ mất không di chúc thì các con có được hưởng di sản cùng hàng với bố không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 651
 447. 2247
 - Quy định của pháp luật về việc sử dụng ranh giới chung giữa các bất động sản?
 - Sử dụng đất chung là ranh giới giữa các bất động sản?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 175
 449. 2250
 - Nghĩa vụ thi hành án khi người được thi hành án dân sự chết?
 - Người được thi hành án dân sự chết thì quyền và nghĩa vụ được thực hiện như thế nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 54
 @ khoản 2
 @ khoản 3
@@ -2584,19 +2584,19 @@
 450. 2251
 - Thủ tục kháng cáo trong hình sự?
 - Quy định của pháp luật tố tụng hình sự về thủ tục kháng cáo?
-+ 101/2015/QH13 Bộ luật tố tụng hình sự 2015
++ 101/2015/QH13
 * Điều 332
 451. 2253
 - Đất thuê trả tiền hằng năm của tổ chức có được chuyển nhượng không?
 - Quy định của pháp luật về những quyền của tổ chức được nhà nước cho thuê đất trả tiền hàng năm?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 175
 452. 2255
 - Dụ dỗ trẻ em dưới 10 tuổi quan hệ tình dục có bị truy cứu trách nhiệm hình sự không?
 - Quy định của pháp luật về việc quan hệ tình dục với trẻ em dưới 10 tuổi?
-+ 100/2015/QH13 Bộ luật hình sự 2015
++ 100/2015/QH13
 * Điều 142
-+ 12/2017/QH14 Luật sửa đổi Bộ luật Hình sự 2017
++ 12/2017/QH14
 * Điều 1
 @ khoản 24
 453. 2256
@@ -2614,12 +2614,12 @@
 454. 2258
 - Những tranh chấp về dân sự thuộc thẩm quyền giải quyết của tòa án?
 - Quy định của pháp luật về những tranh chấp về dân sự thuộc thẩm quyền giải quyết của tòa án?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 26
 455. 2259
 - Quy định của pháp luật về việc chuyển giao tài liệu, giấy tờ của Tòa án?
 - Trách nhiệm chuyển giao tài liệu, tống đạt các giấy tờ của tòa án?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 22
 456. 2260
 - Thủ tục xin cấp Phiếu lý lịch tư pháp số 1 theo quy định pháp luật hiện hành?
@@ -2634,7 +2634,7 @@
 458. 2262
 - Thủ tục nhập quốc tịch Việt Nam?
 - Tôi muốn hỏi về thủ tục để thực hiện việc nhập quốc tịch Việt Nam?
-+ 24/2008/QH12 Luật quốc tịch việt nam 2008
++ 24/2008/QH12
 * Điều 19
 * Điều 20
 * Điều 21
@@ -2651,7 +2651,7 @@
 460. 2265
 - Cơ quan có thẩm quyền công chứng hợp đồng liên quan đến bất động sản?
 - Quy định của pháp luật về nơi công chứng hợp đồng về bất động sản?  
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 42
 * Điều 44
 461. 2266
@@ -2669,27 +2669,27 @@
 463. 2268
 - Chứng thực hợp đồng cho thuê nhà ở tại văn phòng công chứng?
 - Quy định của pháp luật về chứng thực hợp đồng cho thuê nhà ở tại văn phòng công chứng?
-+ 53/2014/QH13 Luật công chứng 2014
++ 53/2014/QH13
 * Điều 77
 464. 2370
 - Chuyển giao tang vật tạm giữ là vũ khí, đạn dược theo bản án trong thi hành án dân sự?
 - Quy định của pháp luật về chuyển giao tang vật tài sản tạm giữ là vũ khí theo bản án trong thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 122
 465. 2371
 - Thù lao trong hợp đồng gửi giữ tài sản?
 - Quy định của pháp luật về mức thù lao trong hợp đồng tạm giữ tài sản?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 561
 466. 2372
 - Quy định của pháp luật về việc kê biên tài sản là nhà ở để thi thành án dân sự?
 - Kê biên tài sản là nhà ở để thi hành án dân sự thực hiện như thế nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 95
 467. 2373
 - Kê biên quyền sử dụng đất là tài sản chung trong thi hành án dân sự?
 - Quy định của pháp luật thi hành án dân sự về việc kê biên tài sản là quyền sử dụng đất thuộc sở hữu chung?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ khoản 31
 468. 2270
@@ -2697,60 +2697,60 @@
 - Quy định của pháp luật về thời hiệu yêu cầu thi hành án dân sự và sự kiện bất khả kháng?
 + 62/2015/NĐ-CP
 * Điều 4
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 30
 469. 2271
 - Người sở hữu và người sử dụng nhà ở có những quyển gì?
 - Quy định của pháp luật quyền của người sở hữu và người sử dụng nhà ở?
-+ 65/2014/QH13 Luật nhà ở 2014
++ 65/2014/QH13
 * Điều 10
 470. 2272
 - Đơn khởi kiện bị trả lại khi nào và hậu quả của việc trả lại?
 - Trường hợp nào đơn khởi kiện bị trả lại và hậu quả của việc trả lại?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 192
 471. 2273
 - Trả tài sản cho vợ chồng được thi hành án dân sự thì cơ quan thi hành án chủ động ra quyết định hay như thế nào?
 - Cơ quan thi hành án dân sự chủ động ra quyết định thi hành việc trả lại tài sản cho vợ chồng được thi hành án?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 36
 472. 2274
 - Cưỡng chế đối với tài sản thuộc sở hữu chung trong thi hành án dân sự thực hiện như thế nào?
 - Quy định của pháp luật thi hành án dân sự về cưỡng chế đối với tài sản thuộc sở hữu chung?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ khoản 31
 473. 2275
 - Việc thi hành án dân sự kết thúc trong trường hợp nào?
 - Quy định của pháp luật về việc kết thúc thi hành án dân sự?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ khoản 23
 476. 2281
 - Thời hiệu yêu cầu thi hành án dân sự được hiểu như thế nào?
 - Quy định của pháp luật về thời hiệu yêu cầu thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 3
 @ Khoản 5
 477. 2282
 - Thủ tục thực hiện cưỡng chế giao người chưa thành niên cho người được giao theo bản án trong thi hành án dân sự?
 - Quy định của pháp luật thi hành án dân sự về việc thực hiện cưỡng chế giao người chưa thành niên theo bản án của tòa án?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 120
 478. 2283
 - Quy định của pháp luật về việc bảo quản tài sản thi hành án dân sự?
 - Việc bảo quản tài sản thi hành án dân sự được pháp luật quy định như thế nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 58
 479. 2284
 - Việc phong tỏa tài khoản trong thi hành án dân sự chấm dứt khi nào?
 - Chấm dứt phong tỏa tài khoản trong thi hành án dân sự trường hợp nào?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 77
 480. 2285
 -  Vốn góp trong doanh nghiệp bị kê biên thi hành án dân sự như thế nào?
 - Quy định của pháp luật về việc kê biên tài sản vốn góp trong thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 92
 481. 2286
 -  Quy định về việc niêm yết đấu giá tài sản là bất động sản?
@@ -2760,40 +2760,40 @@
 482. 2287
 - Hợp đồng về quyền sử dụng đất với doanh nghiệp có chức năng kinh doanh bất động sản có phải công chứng không?
 - Hợp đồng mua bán đất với doanh nghiệp có chức năng kinh doanh bất động sản có phải chứng thực, công chứng không?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13 
 * Điều 167
 @ khoản 3
 483. 2288
 - Quy định của pháp luật về việc cưỡng chế  giao lại quyền sử dụng đất cho người được thi hành án dân sự?
 - Thực hiện việc cưỡng chế chuyển giao quyền sử dụng đất trong thi hành án dân sự?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 117
 484. 2289
 - Tài sản bán đấu giá để thi hành án dân sự không thành thì xử lý như thế nào?
 - Quy định của pháp luật về việc xử lý tài sản bán đấu giá không thành?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ khoản 36
 485. 2290
 - Thời gian ấn định trong cưỡng chế thi hành án dân sự về việc giao người chưa thành niên cho người được giao nuôi trong bản án của tòa án?
 - Quy định của pháp luật về thời gian ấn định trong cưỡng chế giao người chưa thành niên theo bản án?
-+ 26/2008/QH12 Luật thi hành án dân sự 2008
++ 26/2008/QH12
 * Điều 120
 486. 2291
 - Các biện pháp bảo đảm thực hiện nghĩa vụ trong giao dịch dân sự?
 - Có những biện pháp bảo đảm thực hiện nghĩa vụ nào trong giao dịch dân sự?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 292
 487. 2293
 - Việc hủy kết quả bán đấu giá tài sản thực hiện khi nào?
 - Quy định của pháp luật về việc hủy kết quả bán đấu giá tài sản?
-+ 64/2014/QH13 Luật Thi hành án dân sự sửa đổi 2014
++ 64/2014/QH13
 * Điều 1
 @ khoản 34
 488. 2294
 - Xử lý khi cơ quan có thẩm quyền đăng ký kết hôn không đúng thẩm quyền?
 - Quy định của pháp luật về xử lý kết hôn trái pháp luật?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 11
 + 01/2016/TTLT-TANDTC-VKSNDTC-BTP
 * Điều 2
@@ -2802,12 +2802,12 @@
 489. 2295
 - Quy định của pháp luật về việc phân chia quyền sử dụng đất khi vợ chồng ly hôn?
 - Quyền sử dụng đất của vợ chồng thực hiện chia như thế nào khi ly hôn?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 62
 490. 2296
 - Chia tài sản chung của vợ chồng trong thời kỳ hôn nhân?
 - Quy định của pháp luật về việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân?
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 38
 491. 2297
 - Lệ phí chứng thực hợp đồng chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất?
@@ -2817,18 +2817,18 @@
 492. 2298
 - Chung sống nhưng không đăng ký kết hôn thì khi một người chết không di chúc thì người còn lại có được hưởng thừa kế không?
 - Vợ có được hưởng thừa kế của chồng mất không di chúc khi sống chung nhưng không đăng ký kết hôn không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 651
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 3
 @ Khoản 1
 @ khoản 5
 493. 2299
 - Đã ly hôn có được hưởng di sản thừa kế theo pháp luật của nhà chồng không?
 - Đã ly hôn thì có được hưởng di sản thừa kế theo pháp luật của chồng cũ không?
-+ 91/2015/QH13 Bộ luật dân sự 2015
++ 91/2015/QH13
 * Điều 651
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 3
 @ Khoản 1
 @ khoản 14
@@ -2837,29 +2837,29 @@
 - Vợ chồng khi ly hôn chia tài sản như thế nào khi có cả tài sản chung với gia đình?
 + 01/2016/TTLT-TANDTC-VKSNDTC-BTP
 * Điều 7
-+ 52/2014/QH13 Luật hôn nhân và gia đình 2014
++ 52/2014/QH13
 * Điều 59
 * Điều 61
 495. 2301
 - Độ tuổi tham gia lao động?
 - Quy định của pháp luật về độ tuổi tham gia lao động?
-+ 10/2012/QH13 Bộ luật lao động 2012
++ 10/2012/QH13
 * Điều 3
 @ Khoản 1
 496. 2302
 - Người sử dụng lao động không được phép đơn phương chấm dứt hợp đồng lao động khi nào?
 - Những trường hợp người sử dụng lao động không được đơn phương chấm dứt hợp đồng lao động?
-+ 10/2012/QH13 Bộ luật lao động 2012
++ 10/2012/QH13
 * Điều 39
 497. 2303
 - Quy định của pháp luật về thời gian thử việc?
 - Hợp đồng thử việc có thời gian bao lâu?
-+ 10/2012/QH13 Bộ luật lao động 2012
++ 10/2012/QH13
 * Điều 27
 498. 2304
 - Tranh chấp lao động cá nhân có bắt buộc phải qua thủ tục hoà giải tại cơ sở hay không?
 - Tranh chấp lao động cá nhân có bắt buộc phải hòa giải mới được khởi kiện không?
-+ 10/2012/QH13 Bộ luật lao động 2012
++ 10/2012/QH13
 * Điều 201
 499. 2305
 - Mức xử phạt người lái xe máy không có giấy phép lái xe tham gia giao thông?
