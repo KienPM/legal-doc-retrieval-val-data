@@ -815,7 +815,7 @@
 @ khoản 1
 + 01/2017/NĐ-CP
 * Điều 2
-* Khoản 20
+@ Khoản 20
 131. 768
 - Tài sản tặng cho như nào được coi là tài sản riêng của vợ/chồng?
 - Tặng cho tài sản trong thời kỳ hôn nhân được coi là tài sản riêng khi nào?
@@ -1693,7 +1693,7 @@
 - Người bố cố tình không gửi tiền cấp dưỡng sẽ bị xử phạt hành chính như nào?
 + 110/2013/NĐ-CP
 * Điều 52
-* @ khoản 3
+@ khoản 3
 + 52/2014/QH13
 * Điều 107
 @ khoản 2
