@@ -1487,7 +1487,7 @@
 - Pháp luật quy định xử phạt như thế nào đối với tội tàng trữ, vận chuyển, mua bán dùng vào việc sản xuất trái phép chất ma túy?
 - Tội tàng trữ, vận chuyển, mua bán trái phép dùng vào việc sản xuất trái phép chất ma túy?
 + 12/2017/QH14
-* Điều 2
+* Điều 1
 @ Khoản 70
 + 100/2015/QH13
 * Điều 253
@@ -1594,8 +1594,6 @@
 271. 13
 - Người bị tai nạn giao thông đi sai luật thì có được bồi thường?
 - Tham gia giao thông nhưng đi đúng luật người khác va vào gây tai nạn có phải bồi thường không?
-+ 100/2015/QH13
-* Điều 390
 + 12/2017/QH14
 * Điều 1
 @ Khoản 72
@@ -1752,6 +1750,7 @@
 * Điều 1
 @ Khoản 6
 # Điểm b
+# Điểm a
 298. 43
 - Thời hạn kháng cáo quyết định sơ thẩm trong hình sự là bao nhiêu ngày?
 - Quy định của pháp luật về thời hạn kháng cáo quyết định sơ thẩm trong vụ án hình sự
@@ -1765,7 +1764,7 @@
 300. 45
 - Trộm cắp 3 cây vàng trị giá 10 triệu đồng có bị truy cứu trách nhiệm hình sự không?
 - Hành vi trộm cắp 3 cây vàng tương đương với 10 triệu đồng bị xử lý theo tội gì?
-+ 101/2015/QH13
++ 100/2015/QH13
 * Điều 173
 + 12/2017/QH14
 * Điều 1
@@ -1773,7 +1772,7 @@
 301. 46
 - Tàng trữ trái phép ma túy bị truy cứu trách nhiệm hình sự như thế nào?
 - Quy định của pháp luật về hành vi tàng chữ trái phép chất ma túy?
-+ 101/2015/QH13
++ 100/2015/QH13
 * Điều 249
 + 12/2017/QH14
 * Điều 1
@@ -1781,7 +1780,7 @@
 302. 47
 - Trộm cắp tài sản khi say rượu có bị sao không?
 - Say rượu trộm cắp tài sản có bị truy cứu trách nhiệm hình sự không?
-+ 101/2015/QH13
++ 100/2015/QH13
 * Điều 173
 + 12/2017/QH14
 * Điều 1
@@ -2348,7 +2347,7 @@
 - Quan hệ với người gần đủ 18 tuổi có thể bị phạm tội gì
 - Quan hệ tình dục với người gần đủ 18 tuôi có phạm tội không, có thể bị phạm vào tội nào?
 + 100/2015/QH13
-* Điều 142
+* Điều 141
 * Điều 143
 + 12/2017/QH14
 * Điều 1
@@ -2357,16 +2356,12 @@
 401. 155
 - Đánh người gây thương tích bao nhiêu % thì bị truy cứu trách nhiệm hình sự?
 - Đánh người gây thương tích bao nhiêu % thì bị xử lý hình sự?
-+ 100/2015/QH13
-* Điều 134
 + 12/2017/QH14
 * Điều 1
 @ Khoản 22
 402. 156
 - Vi phạm quy định về xây dựng gây hậu quả nghiêm trọng như thế nào thì bị truy cứu trách nhiệm hình sự?
 - Vi phạm quy định về xây dựng gây hậu quả nghiêm trọng bị truy cứu trách nhiệm hình sự như thế nào?
-+ 100/2015/QH13
-* Điều 298
 + 12/2017/QH14
 * Điều 1
 @ Khoản 100
@@ -2584,8 +2579,6 @@
 441. 202
 - Mượn xe máy mới mua 38 triệu đi cắm lấy tiền tiêu rồi bỏ trốn thì phạm tội gì?
 - Mượn xe máy trị giá 38 triệu đi cắm lấy tiền rồi bỏ đi không trả lại bị truy cứu trách nhiệm hình sự về tội gì không?
-+ 100/2015/QH13
-* Điều 175
 + 12/2017/QH14
 * Điều 1
 @ Khoản 35

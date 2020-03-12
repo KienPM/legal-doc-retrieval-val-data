@@ -1271,7 +1271,7 @@
 222. 2577
 - Trường hợp nào tòa án quyết định dưới mức thấp nhất của khung hình phạt?
 - Tòa án ra quyết định hình phạt dưới mức thấp nhất khi nào?
-+ 101/2015/QH13
++ 100/2015/QH13
 * Điều 54
 + 12/2017/QH14 
 * Điều 1
@@ -1285,7 +1285,7 @@
 - Trộm cắp tài sản bị truy cứu trách nhiệm hình sự theo điều nào, phạt bao nhiêu tiền?
 - Hình phạt đối với hành vi trộm cắp tài sản?
 + 100/2015/QH13
-* Điều 318
+* Điều 173
 + 12/2017/QH14 
 * Điều 1
 @ khoản 34

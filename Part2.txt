@@ -1585,8 +1585,8 @@
 * Điều 138
 + 12/2017/QH14
 * Điều 2
-@ Khoản 3
-# Điểm d
+@ Khoản 2
+# Điểm đ
 258. 2092
 - Khởi kiện hành vi hiếp dâm trẻ em 9 tuổi cách đây 10 năm có được không?
 - Bị hiếp dâm cách đây 10 năm, lúc 9 tuổi còn thời hiệu có thể truy cứu trách nhiệm hình sự không?
@@ -1595,7 +1595,7 @@
 * Điều 142
 + 12/2017/QH14
 * Điều 1
-@ Khoản 2
+@ Khoản 24
 259. 2093
 - Văn bản quy phạm pháp luật là những văn bản như thế nào?
 - Bản án đã có hiệu lực pháp luật của tòa án có phải văn bản quy phạm pháp luật không?
@@ -2633,17 +2633,15 @@
 @ Khoản 1
 # Điểm a
 419. 3056
-- Quan hệ tình dục khi người yêu chưa đủ 18 tuổi có thể bị xử phạt hình sự không?
-- Tôi và bạn gái đã có quan hệ với nhau khi 17 tuổi nếu bây giờ người yêu tôi kiện về tội hiếp dâm thì bị xử lý như thế nào?
+- Quan hệ tình dục khi người yêu 17 tuổi có thể bị xử phạt hình sự theo điều nào?
+- Tôi và bạn gái đã có quan hệ với nhau khi 17 tuổi nếu bây giờ người yêu tôi kiện thì có thể bị xử lý hình sự theo điều nào?
 + 100/2015/QH13
 * Điều 141
-* Điều 142
-* Điều 144
+* Điều 143
 + 12/2017/QH14
 * Điều 1
 @ Khoản 23
-@ Khoản 24
-@ Khoản 26
+@ Khoản 25
 420. 3057
 - Thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn xã hội của Chủ tịch UBND xã?
 - Căn cứ pháp lý về thẩm quyền xử phạt vi phạm hành chính lĩnh vực trật tự, an toàn xã hội của Chủ tịch UBND xã?
@@ -2811,7 +2809,7 @@
 - Cưỡng dâm với trẻ em dưới 16 tuổi bị xử phạt hình sự như thế nào?
 - Cưỡng dâm với trẻ em dưới 16 tuổi bị xử lý hình sự khi nào?
 + 100/2015/QH13
-* Điều 141
+* Điều 144
 + 12/2017/QH14
 * Điều 1
 @ Khoản 26

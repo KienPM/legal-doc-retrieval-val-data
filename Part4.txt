@@ -612,7 +612,6 @@
 @ Khoản 3
 # Điểm a
 # Điểm c
-@ Khoản 68 
 105. 393
 - Thông báo Quyết định về thi hành án dân sự, giấy báo, giấy triệu tập?
 - Quy định của pháp luật về vấn đề thông báo thi hành án dân sự, gửi giấy triệu tập và các văn bản khác cho đương sự?
@@ -2151,7 +2150,7 @@
 * Điều 12
 + 12/2017/QH14
 * Điều 1
-@ Khoản 3
+@ Khoản 34
 376. 2167
 - Tiêu thụ tài sản do người khác phạm tội mà có, bị truy cứu trách nhiệm hình sự như thế nào?
 - Tiêu thụ tài sản do người khác phạm tội mà có bị xử lý hình sự không, theo điều nào?
