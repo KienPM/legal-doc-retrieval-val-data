@@ -311,8 +311,8 @@
 + 58/2014/QH13
 * Điều 109
 55. 3510
-- Trưởng đoàn thành tra chuyên ngành có quyền yêu cầu đơn vị thanh tra cung cấp tài liệu liên quan không?
-- Quy định của pháp luật về nhiệm vụ của trưởng đoàn thanh tra chuyên ngành?
+- Trưởng đoàn thành tra chuyên ngành có quyền yêu cầu đơn vị thanh tra cung cấp tài liệu liên quan trong hoạt động thanh tra nhà nước không?
+- Quy định của pháp luật về nhiệm vụ của trưởng đoàn thanh tra chuyên ngành trong hoạt động thanh tra nhà nước?
 + 56/2010/QH12
 * Điều 53
 56. 3511
@@ -1581,7 +1581,7 @@
 269. 10
 - Có thể mua xe thỏa thuận trả dần không, quyền sở hữu có được chuyển giao luôn không?
 - Mua xe trả góp thì quyền sở hữu thuộc về ai?
-+ 100/2015/QH13
++ 91/2015/QH13
 * Điều 453
 270. 12
 - Khi công chứng hợp đồng cần mang những giấy tờ gì?

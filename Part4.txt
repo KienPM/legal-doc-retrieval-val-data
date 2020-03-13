@@ -1830,7 +1830,7 @@
 319. 644
 - Từ chối di sản thừa kế?
 - Cá nhân có quyền từ chối nhận di sản thừa kế không?
-+ 10/2012/QH13
++ 91/2015/QH13
 * Điều 620
 320. 667
 - Việc xác minh điều kiện thi hành án dân sự có phải lập thành văn bản không?
@@ -1958,12 +1958,12 @@
 340. 2045
 - Rút tiền gửi tiết kiệm là di sản thừa kế khi chủ sở hữu đang hôn mê có được không?
 - Hôn mê chưa chết có làm thủ tục khai nhận di sản thừa kế được không?
-+ 92/2015/QH13
++ 91/2015/QH13
 * Điều 611
 341. 2126
 - Hình thức của hợp đồng ủy quyền?
 - Quy định của pháp luật về hình thức của hợp đồng ủy quyền?
-+ 92/2015/QH13
++ 91/2015/QH13
 * Điều 562
 * Điều 563
 * Điều 564
@@ -1993,7 +1993,7 @@
 - Tính hợp pháp của di chúc và việc phân chia tài sản của vợ, chồng khi ly hôn?
 + 52/2014/QH13
 * Điều 59
-+ 92/2015/QH13
++ 91/2015/QH13
 * Điều 630
 347. 2134
 - Người việt nam định cư ở nước ngoài được sở hữu nhà tại Việt Nam khi đáp ứng điều kiện gì?
@@ -2043,7 +2043,7 @@
 355. 2143
 - Bỏ sót người thừa kế khi chia di sản thừa kế thì phân chia lại như thế nào?
 - Vẫn còn người thừa kế thì thực hiện việc phân chia như thế nào?
-+ 92/2015/QH13
++ 91/2015/QH13
 * Điều 662
 356. 2144
 - Đăng ký giao dịch đảm bảo hợp đồng thế chấp quyền sử dụng đất?
@@ -2088,7 +2088,7 @@
 364. 2153
 - Thế nào là tài sản không có người nhận thừa kế?
 - Quy định của pháp luật về tài sản không có người thừa kế?
-+ 92/2015/QH13
++ 91/2015/QH13
 * Điều 622
 365. 2155
 - Quy định của pháp luật về việc thế chấp quyền sử dụng đất mà không thế chấp tài sản gắn liền với đất?

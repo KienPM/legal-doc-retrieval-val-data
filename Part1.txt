@@ -3767,9 +3767,8 @@
 - Cơ quan thi hành án dân sự yêu cầu phải chứng minh tài sản của người phải thi hành án mới nhận đơn là đúng hay sai?
 - Người có đơn yêu cầu thi hành án có bắt buộc phải xác minh tài sản của người phải thi hành án không?
 + 64/2014/QH13
-* Điều 31
-@ Khoản 2
-# Điểm d
+* Điều 1
+@ Khoản 13
 62. 1270
 - Mức phí thi hành án hiện nay là bao nhiêu?
 - Quy định của pháp luật về mức phí thi hành án?
@@ -3795,8 +3794,8 @@
 - Tòa án ra quyết định áp dụng biện pháp khẩn cấp tạm thời phong tỏa tài khoản thì Thủ trưởng cơ quan thi hành án dân sự sẽ làm gì?
 - Tòa án ra quyết định áp dụng biện pháp khẩn cấp tạm thời phong tỏa tài khoản thì Thủ trưởng cơ quan thi hành án dân sự có được ra quyết định thi hành án chủ động không? 
 + 64/2014/QH13
-* Điều 36
-@ Khoản 2
+* Điều 1
+@ Khoản 15
 66. 1274
 - Chế độ chăm sóc y tế đối với phạm nhân bị thương?
 - Quy định của pháp luật về tiền viện phí cho phạm nhân?
@@ -4378,8 +4377,8 @@
 + 53/2014/QH13
 * Điều 17
 154. 1378
-- Các trường hợp nào chấm dứt hoạt động của Văn phòng công chứng? 
-- Theo quy định của pháp luật thì Văn phòng công chứng chấm dứt trong các trường hợp nào?
+- Các trường hợp chấm dứt hoạt động của Văn phòng công chứng? 
+- Theo quy định của pháp luật thì Văn phòng công chứng chấm dứt hoạt động trong các trường hợp nào?
 + 53/2014/QH13
 * Điều 31
 155. 1379
@@ -4728,14 +4727,14 @@
 - Có hộ khẩu ở Hưng Yên muốn nhập hộ khẩu Hà Nội cùng vợ làm như thế nào?
 - Vợ có hộ khẩu ở Hà Nội nay chồng muốn nhập hộ khẩu cùng vợ ở Hà Nội có được không và thủ tục như thế nào?
 + 36/2013/QH13
-* Điều 20
+* Điều 1
 @ Khoản 2
-# Điểm a
 + 81/2006/QH11
 * Điều 21
 + 35/2014/TT-BCA
 * Điều 6
 * Điều 7
+* Điều 8
 * Điều 9
 208. 1449
 - Thủ tục xin giấy xác nhận tình trạng hôn nhân cho người việt nam đang cư trú ở nước ngoài cấp cho thời gian sinh sống trong nước?
@@ -5379,10 +5378,6 @@
 306. 1574
 - Thời hạn giải quyết việc tách thửa tối đa bao nhiêu ngày?
 - Quy định của pháp luật về thời hạn giải quyết việc tách thửa?
-+ 43/2017/NĐ-CP 
-* Điều 61
-@ Khoản 2
-# Điểm d
 + 01/2017/NĐ-CP
 * Điều 2
 @ Khoản 40
@@ -6003,8 +5998,8 @@
 * Điều 1
 @ Khoản 22
 398. 1675
-- Tạm giam người chưa thành niên phạm tội?
-- Quy định của pháp luật về tạm giam người chưa thành niên?
+- Tạm giam người chưa thành niên phạm tội trong trường hợp nào?
+- Quy định của pháp luật về tạm giam người chưa thành niên phạm tội?
 + 101/2015/QH13
 * Điều 419
 399. 1676
