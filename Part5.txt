@@ -1586,7 +1586,7 @@
 276. 2666
 - Những trường hợp được đăng ký thường trú tại thành phố phải được sự đồng ý của người có hộ khẩu?
 - Quy định của pháp luật về những trường hợp cần được sự đồng ý của người có hộ khẩu khi nhập hộ khẩu đăng ký thường trú tại thành phố?
-+ 36/2013/QH13
++ 36/2013/QH13
 * Điều 1
 @ khoản 2 
 277. 2668
@@ -2532,7 +2532,7 @@
 445. 2948
 - Quy định của pháp luật về biện pháp phong tỏa tài sản trong thi hành án dân sự?
 - Phong tỏa tài sản trong thi hành án dân sự?
-+ 64/2014/QH13
++ 64/2014/QH13
 * Điều 1
 @ Khoản 26
 + 62/2015/NĐ-CP
@@ -2545,7 +2545,7 @@
 447. 2951
 - Giải thích cho đương sự về quyền khởi kiện tại Toà án?
 - Quyền khởi kiện của cá nhân, tổ chức?
-+ 92/2015/QH13
++ 92/2015/QH13
 * Điều 4
 * Điều 5
 * Điều 186
@@ -2553,7 +2553,7 @@
 448. 2952
 - Thủ tục đăng ký quyền sở hữu tài sản khi mua tài sản bán đấu giá thi hành án dân sự?
 - Quy định của pháp luật về đăng ký quyền sở hữu tài sản khi mua tài sản bán đấu giá để thi hành án dân sự 
-+ 64/2014/QH13
++ 64/2014/QH13
 * Điều 1
 @ Khoản 37
 + 62/2015/NĐ-CP
@@ -2561,7 +2561,7 @@
 449. 2953
 - Thanh toán tiền thi hành án dân sự thu được từ việc bán tài sản thế chấp?
 - Quy định của pháp luật về thành toán tiền thi hành án dân sự từ việc bán tài sản thế chấp?
-+ 64/2014/QH13
++ 64/2014/QH13
 * Điều 1
 @ Khoản 20
 450. 2954
@@ -2579,7 +2579,7 @@
 - Quy định của pháp luật về xử lý tài sản chuyển dịch nhằm trốn tránh nghĩa vụ trong thi hành án dân sự?
 + 62/2015/NĐ-CP
 * Điều 19
-+ 64/2014/QH13
++ 64/2014/QH13
 * Điều 1
 @ Khoản 28
 454. 2959
@@ -2764,7 +2764,7 @@
 483. 3010
 - Chủ thể có quyền yêu cầu áp dụng biện pháp khẩn cấp tạm thời?
 - Quy định của pháp luật về quyền yêu cầu áp dụng biện pháp khẩn cấp tạm thời?
-+ 92/2015/QH13
++ 92/2015/QH13
 * Điều 111
 484. 2011
 - Vi phạm quy định về tham gia giao thông có thể bị truy cứu trách nhiệm hình sự không?

@@ -5,13 +5,13 @@
 * Điều 48 
 + 62/2015/NĐ-CP
 * Điều 14
-+ 64/2014/QH13
++ 64/2014/QH13
 * Điều 1
 @ Khoản 21
 2. 3298
 - Quy định của pháp luật về việc thanh toán tiền thi hành án cho nhiều người?
 - Thanh toán tiền thi hành cho nhiều người được thi hành án như thế nào?
-+ 64/2014/QH13
++ 64/2014/QH13
 * Điều 1
 @ Khoản 20
 3. 3307
@@ -23,7 +23,7 @@
 * Điều 71
 * Điều 73
 * Điều 44
-+ 64/2014/QH13
++ 64/2014/QH13
 * Điều 1
 @ Khoản 30
 + 62/2015/NĐ-CP
@@ -32,7 +32,7 @@
 4. 3310
 - Thời hạn mà cơ quan thi hành án ra quyết định chủ động thi hành án?
 - Thời hạn chủ động ra quyết định thi hành án?
-+ 64/2014/QH13
++ 64/2014/QH13
 * Điều 1
 @ Khoản 15
 5. 3313
@@ -2922,7 +2922,7 @@
 499. 269
 - Việc thi hành án của cơ quan có thẩm quyền kết thúc khi nào?
 - Đương nhiên kết thúc thi hành án trong trường hợp nào?
-+ 64/2014/QH13
++ 64/2014/QH13
 * Điều 1
 @ Khoản 23
 500. 270

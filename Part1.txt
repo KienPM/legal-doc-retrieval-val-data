@@ -173,7 +173,7 @@
 27. 661
 - Thủ tục đăng ký sang tên xe máy cùng tỉnh đã chuyển sở hữu qua nhiều người? 
 - Sang tên khi đã chuyển sở hữu qua nhiều người thì cần những giấy tờ gì, việc thực hiện là cùng thành phố? 
-+15/2014/TT-BCA
++ 15/2014/TT-BCA
 * Điều 24
 @ khoản 1
 28. 662
@@ -4519,7 +4519,7 @@
 176. 1407
 - Hợp đồng lao động có điều khoản không được phép làm tại công ty có ngành nghề kinh doanh tương tự là đúng hay sai?
 - Hợp đồng lao động có điều khoản không được phép làm tại công ty có ngành nghề kinh doanh tương tự có đúng không?
-+10/2012/QH13
++ 10/2012/QH13
 * Điều 10
 178. 1409
 - Người giám hộ của người mất năng lực hành vi dân sự?
