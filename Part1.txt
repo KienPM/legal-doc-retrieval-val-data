@@ -4607,7 +4607,7 @@
 190. 1425
 - Trẻ em sinh ra ở nước ngoài mang quốc tịch pháp thì có được nhập quốc tịch Việt Nam nữa không khi mẹ mang quốc tịch Việt Nam?
 - Mẹ quốc tịch Việt Nam, bố quốc tịch pháp, khi sinh cho con mang quốc tịch pháp rồi thì có được xin nhập quốc tịch Việt Nam nữa không?
-+ 24/2008/QH12 Luật quốc tịch 2008
++ 24/2008/QH12
 * Điều 19
 191. 1427
 - Xin nhập quốc tịch Việt Nam khi đã có quốc tịch Hoa Kỳ có được không?
@@ -4634,7 +4634,7 @@
 194. 1431 
 - Khởi kiện thì án phí sơ thẩm do bên nào chịu?
 - Quy định của pháp luật về Án phí sơ thẩm?
-+ 92/2015/QH13 Bộ luật tố tụng dân sự 2015
++ 92/2015/QH13
 * Điều 147
 195. 1432
 - Bồi thường thiệt hại trong vụ án hiếp dâm?
@@ -5532,7 +5532,7 @@
 330. 1603
 - Thủ tục xóa án tích?
 - Muốn xóa án tích thì thủ tục như thế nào?
-+ 101/2015/QH13 Bộ luật tố tụng hình sự 2015
++ 101/2015/QH13
 * Điều 369
 331. 1604
 - Áp dụng biện pháp cai nghiện bắt buộc?
@@ -5607,7 +5607,7 @@
 344. 1618
 - Thửa đất là gì? 
 - Thuật ngữ “Thửa đất” trên giấy chứng nhận được hiểu như thế nào?
-+ 45/2013/QH13 Luật đất đai 2013
++ 45/2013/QH13
 * Điều 3
 @ Khoản 1
 345. 1619

@@ -470,7 +470,7 @@
 81. 3595
 - Tài sản công tại cơ quan nhà nước được bán thanh lý trong trường hợp nào?
 - Tài sản của cơ quan nhà nước thực hiện bán thanh lý khi nào?
-+ 15/2017/QH14 Luật quản lý, sử dụng tài sản công 2017
++ 15/2017/QH14
 * Điều 45
 82. 3597
 - Thẩm quyền thụ lý vụ việc thi hành án dân sự?
@@ -2655,7 +2655,7 @@
 454. 217
 - Quy định của pháp luật về việc đỗ xe ô tô dưới lòng đường trước cửa nhà người khác?
 - Quy định của pháp luật về việc dừng xe ô tô trên đường?
-+ 23/2008/QH12 Luật giao thông đường bộ 2008
++ 23/2008/QH12
 * Điều 18
 * Điều 19
 455. 218

@@ -1516,7 +1516,7 @@
 264. 572
 - Đèn pin tự vệ có phải là vũ khí hay công cụ hỗ trợ không?
 - Đèn pin tự vệ có phải là vũ khí không?
-+ 14/2017/QH14 Luật quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ 2017
++ 14/2017/QH14
 * Điều 3
 265. 573
 - Mượn đồ của người khác mà không trả thì có thể bị xử lý hình sự như thế nào?
@@ -1537,7 +1537,7 @@
 268. 576
 - Tạm đình chỉ chấp hành hình phạt tù?
 - Quy định của pháp luật về việc thi hành quyết định tạm đình chỉ chấp hành hình phạt tù?
-+ 53/2010/QH12 Luật thi hành án hình sự 2010
++ 53/2010/QH12
 * Điều 32
 269. 578
 - Thay thế tài sản bảo đảm trong hợp đồng thế chấp có phải đăng ký xóa thế chấp không?
@@ -2450,7 +2450,7 @@
 427. 2226
 - Hồ sơ xin chấp thuận chủ trương của ủy ban nhân dân tỉnh?
 - Quy định của pháp luật về những giấy tờ có trong hồ sơ xin chấp thuận chủ trương đầu tư thuộc thẩm quyền của ủy ban nhân dân tỉnh? 
-+ 67/2014/QH13 Luật đầu tư 2014
++ 67/2014/QH13
 * Điều 33
 428. 2227
 - Giao dịch dân sự vô hiệu do giả tạo?
