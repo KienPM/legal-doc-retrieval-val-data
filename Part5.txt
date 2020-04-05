@@ -78,9 +78,9 @@
 + 36/2018/QH14
 * Điều 92 
 13. 2320
-- Những bản án, quyết định nào được thi hành ngay kể cả có kháng cáo, kháng nghị?
-- Quy định của pháp luật về những bản án được thi hành ngay cả khi có kháng nghị?
-+ 101/2015/QH13
+- Những bản án, quyết định nào được thi hành ngay kể cả có kháng cáo, kháng nghị trong vụ án dân sự?
+- Quy định của pháp luật về những bản án được thi hành ngay cả khi có kháng nghị trong vụ án dân sự?
++ 92/2015/QH13
 * Điều 482
 @ khoản 2
 14. 2321
@@ -313,10 +313,14 @@
 + 100/2015/QH13
 * Điều 351
 55. 2369
-- Tội thiếu trách nhiệm gây hậu quả nghiêm trọng ảnh hưởng đến tài sản của nhà nước?
-- Quy định của pháp luật về tội thiếu trách nhiệm gây hậu quả nghiêm trọng ảnh hưởng đến tài sản của nhà nước?
+- Tội thiếu trách nhiệm gây thiệt hại đến tài sản của nhà nước bị xử lý hình sự như thế nào?
+- Quy định của pháp luật về tội thiếu trách nhiệm gây thiệt hại đến tài sản của nhà nước?
 + 100/2015/QH13
-* Điều 124
+* Điều 179
++ 12/2017/QH14
+* Điều 2
+@ khoản 1
+# điểm e
 56. 2375
 - Chủ thể có quyền ký trong đơn yêu cầu thi hành án dân sự?
 - Quy định của pháp luật về chủ thể có quyền ký trong đơn yêu cầu thi hành án dân sự?
@@ -362,6 +366,8 @@
 65. 2385
 - Thời hạn giải quyết thông tin tố giác tội phạm?
 - Quy định của pháp luật về thời gian giải quyết thông tin về tin báo tội phạm?
++ 101/2015/QH13
+* Điều 147
 + 01/2017/TTLT-BCA-BQP-BTC-BNN&PTNT-VKSNDTC
 * Điều 9
 * Điều 11
@@ -534,8 +540,9 @@
 * Điều 167
 + 45/2013/NĐ-CP
 * Điều 11
-+ 05/2015/NĐ-CP
-* Điều 6
++ 148/2018/NĐ-CP
+* Điều 1
+@ khoản 3
 94. 2417
 - Cách tính lãi quá hạn?
 - Quy định của pháp luật về việc tính lãi quá hạn?
@@ -546,7 +553,7 @@
 - Tài sản được thừa kế có phải là tài sản chung của vợ chồng không?
 - Quy định của pháp luật về tài sản chung của vợ chồng do được thừa kế?
 + 52/2014/QH13
-* Điều 36
+* Điều 33
 96. 2419
 - Về thời hiệu khởi kiện chia thừa kế tối đa là bao năm đối với động sản?
 - Quy định của pháp luật về thời hiệu khởi kiện để chia di sản thừa kế là động sản?
@@ -776,7 +783,7 @@
 134. 2465
 - Có thể đòi lại tài sản từ người thứ ba ngay tình không?
 - Đòi lại tài sản từ người thứ ba ngay tình trong trường hợp nào?
-+ 100/2015/QH13
++ 91/2015/QH13
 * Điều 133
 135. 2466
 - Tặng cho bất động sản có điều kiện, người được tặng cho không thực hiện thì có quyền đòi lại không?
@@ -945,7 +952,7 @@
 * Điều 195
 164. 2498
 - Có thể dùng một tài sản để đảm bảo cho nhiều nghĩa vụ không?
-- Dùng một tài sản để đảm bảo cho một nghĩa vụ có được không?
+- Dùng một tài sản để đảm bảo cho nhiều nghĩa vụ có được không?
 + 91/2015/QH13
 * Điều 296
 165. 2499
@@ -1085,10 +1092,10 @@
 + 62/2015/NĐ-CP
 * Điều 27
 189. 2530
-- Trách nhiệm của phòng đăng ký đất đai trong thi hành án dân sự?
+- Trách nhiệm của cơ quan đăng ký giao dịch bảo đảm trong thi hành án dân sự?
 - Quy định của pháp luật về trách nhiệm của cơ quan đăng ký tài sản trong thi hành án dân sự?
 + 26/2008/QH12
-* Điều 176
+* Điều 178
 190. 2531
 - Tiền do người phải thi hành án dân sự đang giữ giấu đi thì có bị kê biên khi hành án không?
 - Quy định của pháp luật về thu tiền của người phải thi hành án dân sự?

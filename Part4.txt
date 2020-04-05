@@ -573,8 +573,9 @@
 98. 385
 - Quy định của pháp luật về quyền cưỡng chế thi hành án dân sự trả giấy tờ?
 - Người có nghĩa vụ phải thi hành án trả giấy tờ không thực hiện thì cơ quan thi hành án dân sự cưỡng chế như thế nào?
-+ 45/2013/QH13 
-* Điều 117
++ 64/2014/QH13
+* Điều 1
+@ Khoản 39
 99. 386
 - Thuộc trường hợp đương nhiên xóa án tích có phải làm thủ tục không?
 - Quy định của pháp luật về việc đương nhiên xóa án tích và thủ tục xóa án tích trong trường hợp này?
@@ -794,7 +795,7 @@
 + 26/2008/QH12
 * Điều 36
 140. 435
-- Điện tích thửa đất nhỏ hơn diện tích tối thiểu có được cấp sổ đỏ không?
+- Diện tích thửa đất nhỏ hơn diện tích tối thiểu có được cấp sổ đỏ không?
 - Quy định của pháp luật về việc cấp giấy chứng nhận trong trường hợp diện tích nhỏ hơn diện tích tối thiểu?
 + 43/2014/NĐ-CP
 * Điều 29 
@@ -1292,7 +1293,7 @@
 + 68/2014/QH13
 * Điều 201
 225. 527
--  Những trường hợp nào tài sản bảo đảm bị xử lý?
+- Những trường hợp nào tài sản bảo đảm bị xử lý?
 - Quy định của pháp luật về những trường hợp tài sản bảo đảm bị xử lý?
 + 91/2015/QH13
 * Điều 299
@@ -1557,7 +1558,8 @@
 - Phụ lục hợp đồng thế chấp có cần chứng thực không?
 - Ký phụ lục hợp đồng thế chấp có phải chứng thực không?
 + 91/2015/QH13
-* Điều 403
+* Điều 403 
+* Điều 421 
 272. 580
 - Giao dịch với chính mình?
 - Có được xác lập giao dịch giữa người mà mình đại diện với chính mình không?
@@ -2053,7 +2055,7 @@
 357. 2145
 - Quy định của pháp luật về việc phương thức thanh toán?
 - Phương thức thanh toán theo quy định của pháp luật?
-+ 92/2015/QH13
++ 91/2015/QH13
 * Điều 433
 358. 2146
 - Hạn mức giao đất nông nghiệp?
@@ -2093,7 +2095,7 @@
 365. 2155
 - Quy định của pháp luật về việc thế chấp quyền sử dụng đất mà không thế chấp tài sản gắn liền với đất?
 - Thế chấp quyền sử dụng đất mà không thế chấp tài sản gắn liền với đất?
-+ 92/2015/QH13
++ 91/2015/QH13
 * Điều 325
 366. 2156
 - Hồ sơ sang tên di chuyển xe từ tỉnh này sang tỉnh khác?
@@ -2432,7 +2434,7 @@
 + 91/2015/QH13
 * Điều 184
 424. 2223
-- Quyền của doanh nghiệo cho thuê lại đất được giao trả tiền một lần cho cả thời gian thuê?
+- Quyền của doanh nghiệp cho thuê lại đất được giao trả tiền một lần cho cả thời gian thuê?
 - Quy định của pháp luật về việc cho thuê lại đất thuê trả tiền một lần của tổ chức?
 + 45/2013/QH13 
 * Điều 174
@@ -2752,7 +2754,7 @@
 + 26/2008/QH12
 * Điều 92
 481. 2286
--  Quy định về việc niêm yết đấu giá tài sản là bất động sản?
+- Quy định về việc niêm yết đấu giá tài sản là bất động sản?
 - Niêm yết việc đấu giá tài sản là bất động sản?
 + 01/2016/QH14
 * Điều 35
