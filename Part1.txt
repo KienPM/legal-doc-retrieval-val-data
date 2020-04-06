@@ -2587,7 +2587,7 @@
 380. 1062
 - Thời hạn giải quyết đơn tố cáo tội phạm là bao nhiêu lâu?
 - Tố cáo tội phạm cơ quan có thẩm quyền giải quyết trong bao nhiêu lâu?
-+ 100/2015/QH13
++ 101/2015/QH13
 * Điều 147
 + 01/2017/TTLT-BCA-BQP-BTC-BNN&PTNT-VKSNDTC
 * Điều 9
@@ -4815,7 +4815,7 @@
 + 257/2016/TT-BTC
 * Điều 4
 @ Khoản 2
-# Điểm 7a
+# Điểm a7
 219. 1462
 - Hồ sơ đăng ký thế chấp tài sản gắn liền đất hình thành trong tương lai mà bên thế chấp không đồng thời là người sử dụng đất ?
 - Đăng ký thế chấp tài sản gắn liền đất hình thành trong tương lai mà bên thế chấp không đồng thời là người sử dụng đất cần chuẩn bị những giấy tờ gì?
@@ -4918,7 +4918,7 @@
 234. 1477
 - Thủ tục làm lại đăng ký xe do bị mất?
 - Bị mất đăng ký xe có thể mang hồ sơ gốc để đi làm lại đăng ký xe không?
-+ 15/2014/NĐ-CP
++ 15/2014/TT-BCA
 * Điều 15
 235. 1478
 - Xác lập quyền sở hữu đối với tài sản bị chìm dưới biển?
