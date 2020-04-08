@@ -100,12 +100,12 @@
 - 22 tuổi chưa lập gia đình có được tách hộ khẩu không?
 + 81/2006/QH11
 * Điều 27 
-17.  1821
+17. 1821
 - Thủ tục cấp lại đăng ký xe do bị mất?
 - Làm mất đăng ký xe muốn làm lại thì phải chuẩn bị những giấy tờ gì?
 + 15/2014/TT-BCA
 * Điều 15
-18.  1822
+18. 1822
 - Công chứng viên thành lập văn phòng công chứng cần làm thế nào?
 - Thủ tục thành lập Văn Phòng công chứng? 
 + 53/2014/QH13
@@ -163,7 +163,7 @@
 @ Khoản 2
 @ Khoản 3
 @ Khoản 4
-26.  1831
+26. 1831
 - Tặng cho nhà chưa có giấy chứng nhận quyền sở hữu?
 - Nhà ở được xây dựng có giấy phép nhưng chưa có giấy chứng nhận quyền sở hữu thì có được tặng cho không?
 + 65/2014/QH13
@@ -295,7 +295,7 @@
 - Quy định của pháp luật về căn cứ yêu cầu bồi thường trong hoạt động quản lý hành chính?
 + 10/2017/QH14
 * Điều 8
-46.  1852
+46. 1852
 - Hồ sơ yêu cầu bồi thường gồm những giấy tờ gì và thời hạn thụ lý đơn như thế nào?
 - Pháp luật quy định như thế nào về hồ sơ yêu cầu bồi thường và thời hạn thụ lý đơn yêu cầu bồi thường?
 + 10/2017/QH14
@@ -791,7 +791,7 @@
 @ Khoản 3
 * Điều 292
 127. 1945
--  Con đã thành niên nhận mẹ có phải có sự đồng ý của ai không?
+- Con đã thành niên nhận mẹ có phải có sự đồng ý của ai không?
 - Người đã thành niên khi nhận mẹ có cần sự đồng ý của người đang nuôi dưỡng hiện tại không?
 + 52/2014/QH13
 * Điều 90
@@ -813,7 +813,7 @@
 + 91/2015/QH13
 * Điều 127
 131. 1949
-- Quyền sở hữu đối với vật ị chôn giấu?
+- Quyền sở hữu đối với vật bị chôn giấu?
 - Tìm thấy tài sản bị chôn giấu thì quyền sở hữu thuộc về ai?
 + 91/2015/QH13
 * Điều 229
@@ -848,7 +848,7 @@
 - Đối tượng chịu thuế sử dụng đất?
 + 53/2011/NĐ-CP
 * Điều 2
-+ 48/2010/QH12  
++ 48/2010/QH12 
 * Điều 2
 * Điều 3
 138. 1958
@@ -989,7 +989,7 @@
 @ Khoản 2
 * Điều 500
 160. 1985
--  Vợ chồng ly thân nhưng chưa làm thủ tục ly hôn mà chồng lại đăng ký kêt hôn với người khác thì vợ đầu có quyền yêu cầu việc hủy kết hôn trái pháp luật không?
+- Vợ chồng ly thân nhưng chưa làm thủ tục ly hôn mà chồng lại đăng ký kêt hôn với người khác thì vợ đầu có quyền yêu cầu việc hủy kết hôn trái pháp luật không?
 - Quy định của pháp luật về việc hủy kết hôn trái pháp luật khi chồng đi đăng ký kết hôn với người khác?
 + 52/2014/QH13
 * Điều 5
@@ -2047,7 +2047,7 @@
 + 52/2014/QH13
 * Điều 37
 329. 2719
--  Bố chồng tặng cho quyền sử dụng đất với điều kiện không được bán thì khi hoàn tất sang tên có được chuyển nhượng cho người khác không?
+- Bố chồng tặng cho quyền sử dụng đất với điều kiện không được bán thì khi hoàn tất sang tên có được chuyển nhượng cho người khác không?
 - Được nhận tặng cho quyền sử dụng đất với điều kiện không được bán thì khi hoàn tất thủ tục sang tên, là chủ sở hữu thì có được bán không?
 + 91/2015/QH13
 * Điều 462
@@ -2083,7 +2083,7 @@
 + 91/2015/QH13
 * Điều 303
 336. 2740
-- Nhà tôi đang thuê được mang đi thế chấp  và bị xử lý thì tôi có quyền tiếp tục thuê nhà ở cho thời hạn còn lại của hợp đồng không?
+- Nhà tôi đang thuê được mang đi thế chấp và bị xử lý thì tôi có quyền tiếp tục thuê nhà ở cho thời hạn còn lại của hợp đồng không?
 - Quyền của bên thuê nhà ở khi nhà ở là tài sản thế chấp bị xử lý để đảm bảo nghĩa vụ?
 + 163/2006/NĐ-CP
 * Điều 24
@@ -2666,7 +2666,7 @@
 * Điều 43
 + 26/2008/QH12
 * Điều 73 
-425.  3077
+425. 3077
 - Mỗi cá nhân là công dân Việt Nam có quyền làm bao nhiêu giấy chứng nhận quyền sử dụng đất?
 - Pháp luật có giới hạn quyền làm sổ đỏ của công dân Việt Nam?
 + 45/2013/QH13

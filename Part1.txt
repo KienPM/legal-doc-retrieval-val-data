@@ -390,7 +390,7 @@
 62. 705
 - Thời hạn người thi hành án có quyền yêu cầu thi hành án?
 - Khi nào người được thi hành án có đơn yêu cầu thi hành án?
-+  26/2008/QH12
++ 26/2008/QH12
 * Điều 30
 + 62/2015/NĐ-CP
 * Điều 4
@@ -454,7 +454,7 @@
 73. 716
 - Thẩm quyền thi hành bản án của tòa án cấp huyện?
 - Cơ quan có thẩm quyền thi hành bản án của tòa án cấp huyện?
-+  26/2008/QH12
++ 26/2008/QH12
 * Điều 35
 @ khoản 1
 # điểm a
@@ -948,7 +948,7 @@
 * Điều 651
 * Điều 660
 147. 789
-- Muốn được nhập quốc tịch Việt Nam làm như thế nào?
+- Muốn được nhập quốc tịch Việt Nam làm như thế nào?
 - Thủ tục xin nhập quốc tịch Việt Nam cho người nước ngoài?
 + 24/2008/QH12
 * Điều 19
@@ -1704,7 +1704,7 @@
 + 60/2014/QH13
 * Điều 17
 @ khoản 1
-+  81/2006/QH11
++ 81/2006/QH11
 * Điều 1
 252. 916
 - Mảnh đất được đứng tên chung của hai vợ chồng, muốn thành tài sản riêng thì cần làm thế nào?
@@ -2228,7 +2228,7 @@
 @ khoản 3
 @ khoản 4
 328. 999
-- Sau bao lâu thì được xóa án tích?
+- Sau bao lâu thì được xóa án tích?
 - Quy định của pháp luật về thời hạn để người phạm tội được xóa án tích?
 + 100/2015/QH13
 * Điều 73
@@ -2500,8 +2500,8 @@
 368. 1046
 - Thuê xe SH với mục đích là để bán xe lấy tiền trả nợ có thể bị xử lý hình theo điều nào?
 - Thuê xe SH với mục đích là để bán xe lấy tiền trả nợ có thể bị xử lý hình theo tội nào?
-+ 100/2015/QH13   
-* Điều 174  
++ 100/2015/QH13  
+* Điều 174 
 369. 1048
 - Có phải thực hiện nghĩa vụ trả nợ cho chồng khi vay tiền ngân hàng để ăn chơi riêng không?
 - Chồng vay vốn tại ngân hàng mà vợ không hề biết thì vợ có nghĩa vụ trả tiền cùng chồng không?
@@ -2740,7 +2740,7 @@
 # Điểm a
 # Điểm b
 404. 1087
-- Tham gia phiên xử tòa hành chính có được ghi âm, ghi hình không?
+- Tham gia phiên xử tòa hành chính có được ghi âm, ghi hình không?
 - Quy định của pháp luật về vấn đề ghi âm ghi hình trong phiên tòa hành chính?
 + 93/2015/QH13
 * Điều 166
@@ -2971,7 +2971,7 @@
 + 91/2015/QH13
 * Điều 634
 438. 1130
-- Hành vi gây mất tật tự tại ký túc xá có bị xử phạt không?
+- Hành vi gây mất trật tự tại ký túc xá có bị xử phạt không?
 - Quy định của pháp luật về hành vi gây mất trật tự công cộng ở ký túc xá?
 + 167/2013/NĐ-CP
 * Điều 5
@@ -3095,7 +3095,7 @@
 - Cố ý hủy hoại tài sản nhà ngưới khác có bị xử lý hình sự không?
 - Cố ý hủy hoại tài sản của người khác bị xử lý hình sự về tội gì?
 + 100/2015/QH13
-* Điều  178
+* Điều 178
 + 12/2017/QH14
 * Điều 1
 @ Khoản 36
@@ -3310,7 +3310,7 @@
 @ khoản 1
 1. 1199
 - Ký thêm phụ lục hợp đồng thế chấp bổ sung phần tài sản trên đất, không làm thay đổi giá trị tài sản thế chấp có phải đăng ký thay đổi nội dung thế chấp không?
-- Bổ sung tài sản thế chấpmà không ký hợp đồng mới có phải thực hiện đăng ký thay đổi thế chấp không?
+- Bổ sung tài sản thế chấp mà không ký hợp đồng mới có phải thực hiện đăng ký thay đổi thế chấp không?
 + 102/2017/NĐ-CP
 * Điều 18
 @ khoản 3
@@ -3887,7 +3887,7 @@
 # Điểm h
 79. 1288
 - Tài sản đã bán đấu giá thành nhưng sau đó phát hiện thấy việc thẩm định giá còn thiếu giá trị của một số tài sản đã kê biên thì có phải hủy kết quả bán đấu giá không?
-- Trong trường hợp nào thì hủy kế quả bán đấu gía?
+- Trong trường hợp nào thì hủy kết quả bán đấu gía?
 + 64/2014/QH13
 * Điều 1
 @ Khoản 34
@@ -4314,8 +4314,8 @@
 + 23/2015/NĐ-CP
 * Điều 22
 144. 1368
-- Quyền và nghĩa vụ của tổ chức hành nghề công chứng? 
-- Tổ chức hành nghề công chứng có các quyền và nghĩa vụ như thế nào theo quy định của pháp luật hiện hành?
+- Quyền và nghĩa vụ của tổ chức hành nghê công chứng?
+- Tổ chức hành nghề công chứng có các quyền và nghĩa vụ như thế nào theo quy định của pháp luật hiện hành?
 + 53/2014/QH13
 * Điều 32
 145. 1369
@@ -4650,7 +4650,7 @@
 @ Khoản 72
 197. 1435
 - Bị phạt tù nhưng được hưởng án treo về tội đánh bạc, nay tiếp tục vi phạm về tội đánh bạc thì bị xử lý như thế nào?
-- Đang hưởng án treo về tội đánh bạc, nay lại vi  phạm quy định về tội đánh bạc thì bị xử lý như thế nào?
+- Đang hưởng án treo về tội đánh bạc, nay lại vi phạm quy định về tội đánh bạc thì bị xử lý như thế nào?
 + 100/2015/QH13
 * Điều 321
 * Điều 65
@@ -6106,7 +6106,7 @@
 + 110/2013/NĐ-CP
 * Điều 27
 413. 1690
-- Những hành vi vi phạm quy định về hợp tác quốc tế trong phát luật bị xử phạt hành chính như thế nào?
+- Những hành vi vi phạm quy định về hợp tác quốc tế trong pháp luật bị xử phạt hành chính như thế nào?
 - Xử phạt vi phạm hành chính đối với hành vi vi phạm quy định hợp tác quốc tế trong phát luật?
 + 67/2015/NĐ-CP
 * Điều 1

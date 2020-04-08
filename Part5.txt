@@ -260,7 +260,7 @@
 * Điều 99
 + 64/2014/QH13
 * Điều 1
-@ khoản 33  
+@ khoản 33 
 46. 2358
 - Pháp luật hướng dẫn lập kế hoạch cưỡng chế thi hành án dân sự như thế nào?
 - Quy định của pháp luật về lập kế hoạch cưỡng chế thi hành án dân sự?
@@ -1780,7 +1780,7 @@
 @ khoản 23
 + 100/2015/QH13
 * Điều 141
-309.  2712
+309. 2712
 - Bức cung có phạm tội không?
 - Quy định của pháp luật về tội bức cung?
 + 12/2017/QH14
